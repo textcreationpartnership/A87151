@@ -1,0 +1,928 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A sermon preached to the honorable House of Commons assembled in Parliament, at a publike fast, May, 25. 1642. By Robert Harris, Batchelor of Divinity and Pastor of Hanwell. Oxon. Published by order of that House.</title>
+            <author>Harris, Robert, 1581-1658.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1642</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 104 KB of XML-encoded text transcribed from 30 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A87151</idno>
+            <idno type="STC">Wing H875</idno>
+            <idno type="STC">Thomason E150_21</idno>
+            <idno type="STC">ESTC R4871</idno>
+            <idno type="EEBO-CITATION">99872740</idno>
+            <idno type="PROQUEST">99872740</idno>
+            <idno type="VID">156755</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A87151)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 156755)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 27:E150[21])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A sermon preached to the honorable House of Commons assembled in Parliament, at a publike fast, May, 25. 1642. By Robert Harris, Batchelor of Divinity and Pastor of Hanwell. Oxon. Published by order of that House.</title>
+                  <author>Harris, Robert, 1581-1658.</author>
+                  <author>England and Wales. Parliament. House of Commons.</author>
+               </titleStmt>
+               <extent>[8], 51, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by M. F. for Iohn Bartlet, and are to be sold at the gilt Cup, neere S. Austins gate in Pauls Church-yard,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>M. DC. XLII. [1642]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Running title reads: A sermon preached at a late fast before the Honorable House of Commons.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Bible. --  N.T. --  Luke XVIII, 6-8 --  Sermons --  Early works to 1800.</term>
+               <term>Fast-day sermons --  17th century.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Sermons --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-08</date>
+            <label>John Latta</label>Sampled and proofread</change>
+         <change>
+            <date>2011-08</date>
+            <label>John Latta</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:156755:1" rendition="simple:additions"/>
+            <p>A SERMON PREACHED TO THE HONORABLE HOVSE OF COMMONS Aſſembled in PARLIAMENT, At a publike Faſt, May, 25. 1642.</p>
+            <p>By ROBERT HARRIS, <hi>Batchelor of Divinity and Paſtor of Hanwell.</hi> OXON.</p>
+            <p>Publiſhed by Order of that Houſe.</p>
+            <q>
+               <bibl>PSAL. 10.</bibl>
+               <p>14. <hi>Thou haſt ſeene: for thou beholdeſt miſchiefe, and ſpite to re<g ref="char:EOLhyphen"/>quite it with thy hand. The poore leaveth himſelfe to thee. Thou art the help of the fatherleſſe.</hi>
+               </p>
+               <p>17. <hi>Lord, thou haſt heard the deſire of the humble: Thou wilt prepare their heart: thou wilt cauſe thy eare to heare, &amp;c.</hi>
+               </p>
+            </q>
+            <p>LONDON, Printed by <hi>M. F.</hi> for <hi>Iohn Bartlet,</hi> and are to be ſold at the gilt Cup, neere <hi>S. Auſtins</hi> gate in <hi>Pauls</hi> Church<g ref="char:EOLhyphen"/>yard, <hi>M. DC. XLII.</hi>
+            </p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:156755:2"/>
+            <head>TO THE HONORABLE HOVSE OF COMMONS, now aſſembled in Parliament.</head>
+            <p>
+               <seg rend="decorInit">I</seg> Now tender what you are pleaſed to owne: ſooner I could not, becauſe want<g ref="char:EOLhyphen"/>ing <hi>time and health,</hi> I had onely <hi>broken notes.</hi> I am now come as neere my ſelfe, as my notes will help mee. It was my reſolution from the firſt, to hold me to the worke in hand, the <hi>worke of the day,</hi> the <hi>worke of my calling;</hi> accor<g ref="char:EOLhyphen"/>dingly I made, and purſued my choice, waving all diſputes <hi>Sacred,</hi> or <hi>Civill.</hi> Things ever move beſt in their owne <hi>Spheare:</hi> And O that all things might ever runne in their right channell! My worke was to <hi>Mourne,</hi> to <hi>Preach;</hi> not to <hi>Parliament-it:</hi> and I never brought a ſadder heart to a buſineſse. Nay, <hi>The diviſions of Reuben</hi> ſtill ſtick, and have left thoſe impreſsions, which will not off.<note place="margin">Judg. 5.15.</note> I
+<pb facs="tcp:156755:3"/>bleed ſtill in the breaches of <hi>Dying Ireland,</hi> and in our <hi>Home-Jealouſies.</hi> Alas! That <hi>Brethren,</hi> who promiſe and purpoſe ſo well, worke and ſweat ſo hard, ſhould ſo hardly underſtand each other. There is, I feare, a <hi>Divine diſpleaſure</hi> in it. Where <hi>Unity</hi> is,<note place="margin">Pſal. 133: 3.</note> the <hi>bleſsing</hi> is. The ſpirit of Iealouſy and diviſion is a Meſſenger of wrath.<note place="margin">Judg. 9. &amp;c.</note> And then moſt, when <hi>All</hi> complaine of it, and <hi>No One</hi> will owne it. For this <hi>My Soule ſhall weep in ſecret;</hi> and in <hi>Rebeccahs</hi> caſe, I will take up her complaint; <hi>Why is it thus!</hi> As for you, <hi>Noble gentlemen,</hi> What can I ſay now? It is wiſdome (you know) to know ones owne Compaſſe, and you are far above me. Your <hi>Place is high, your Task great;</hi> and yet your <hi>ſtrength not infinit.</hi> By <hi>Place,</hi> you are <hi>Gods:</hi>
+               <note place="margin">Pſal. 82.</note> and yet <hi>Men;</hi> you muſt <hi>Fall,</hi> (and may <hi>ſail</hi>) <hi>like others.</hi>
+               <note place="margin">Quideſt Eccle<g ref="char:EOLhyphen"/>ſia? Viri. &amp; mulieres. Chry. in Eph. 5.</note> Gods own <hi>Synod (the Church)</hi> is made up of men: and men be <hi>Men,</hi> in the <hi>Greateſt Councels.</hi> Compare them to the <hi>High<g ref="char:EOLhyphen"/>eſt God,</hi> their <hi>greateſt agitations</hi> are but as the <hi>buſie ſweatings</hi> of ſo many <hi>Ants</hi> in a <hi>Molehill.</hi> Your work is alſo <hi>great.</hi> As your <hi>Place,</hi> ſo your <hi>Work</hi> is <hi>Gods.</hi> Your buſineſſe lies about <hi>Laws,</hi> and <hi>Orders. Order</hi> is a <hi>Sacred</hi> thing. <hi>Law,</hi> the <hi>work of a God</hi> No man can ſee, or ſay <hi>All</hi> in his <hi>Law;</hi> Sin will evade; witneſſe our <hi>good
+<pb facs="tcp:156755:3"/>Laws</hi> touching <hi>The Lords day, Swearing,</hi> and <hi>Drinking.</hi> Now (forſooth) you muſt tell us, what <hi>Prophaneneſſe</hi> is, what <hi>Swearing</hi> you meane, and when a man is <hi>Drunken.</hi> Nay, when a Law is with <hi>ſome</hi> difficulty conceived, and with <hi>more</hi> brought forth, it is not an eaſie thing, to teach it to <hi>Speak plainly:</hi> nor are men ſo happy in their expreſsions as was <hi>S. Paul,</hi> who wrote, nor more,<note place="margin">2 Cor. 1.</note> nor leſſe, then we Read. I ſpeak not this in a <hi>Diſ<g ref="char:EOLhyphen"/>couraging way. Noble Spirits</hi> know not what that meanes. Onely they know from the Poet,<note place="margin">Et neſeit remea<g ref="char:EOLhyphen"/>ve Lon. Claud. <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> 
+                  <hi>&amp;c. Eurip.</hi>
+               </note> That it makes a man, leſſe then nothing. Laws therefore muſt be; elſe all goes to loſſe. Leave men to them<g ref="char:EOLhyphen"/>ſelves; each mans <hi>luſt</hi> will be a <hi>Law;</hi> each mans <hi>Opinion,</hi> a <hi>Bible.</hi> My ſpeech onely tends to this, to provoke you, and my ſelf to <hi>prayer,</hi> and <hi>depen<g ref="char:EOLhyphen"/>dence.</hi> He that will undertake the <hi>work</hi> of God, with the <hi>wit,</hi> and <hi>ſtrength</hi> of a <hi>man,</hi> will but <hi>ſhame</hi> the work, and <hi>break</hi> himſelf. My hope is, That you will <hi>begin,</hi> and <hi>end</hi> with God: that you will doe all in his ſtrength, and <hi>do</hi> his <hi>beſt work, firſt.</hi> Mens Conſciences are miſerably perplexed between <hi>Command,</hi> and <hi>Command.</hi> Our Congregations are as much divided, betweene <hi>Tea<g ref="char:EOLhyphen"/>cher,</hi> and <hi>Teacher.</hi> The concluſion in time will be, <hi>Wee are of Chriſt,</hi>
+               <note place="margin">1 Cor. 1.1</note> 
+               <hi>We will believe none
+<pb facs="tcp:156755:4"/>of them all.</hi> Let me aſſure you, The caſe betwixt <hi>Paſtor,</hi> and <hi>Flock</hi> will be very ſad, if there bee not a <hi>timely</hi> ſettlement. But things of this nature I had rather ſpeak in <hi>Private,</hi> then in <hi>Preſſe,</hi> or <hi>Pulpit.</hi> And there rather to <hi>God,</hi> then to <hi>Man.</hi> I therefore reine in and betake my ſelfe with <hi>aged Jerome</hi> to my <hi>Tuguriolum,</hi> and there bleſſe God, that I dare ſleep, and can ſay, that <hi>ought</hi> is my <hi>owne,</hi> and there deplore my barren miniſtery for almoſt <hi>twice twenty yeares,</hi> and implore the bleſsing of <hi>heaven</hi> upon my <hi>Deare Soveraigne,</hi> and his <hi>Great Councell.</hi>
+               <note place="margin">Eſay 9. 2 Tim. 2.</note> Now the <hi>Great Counſellor give you a right underſtanding, in all things:</hi>
+               <note place="margin">2 Theſ. 3.16.</note> 
+               <hi>And the God of Peace himſelf</hi> (he alone can do it) <hi>give you peace, in all things, by all meanes.</hi> So will pray</p>
+            <closer>
+               <signed>
+                  <hi>The unworthieſt</hi>
+                  <lb/> of thoſe<lb/> 
+                  <hi>that ſerve you in</hi>
+                  <lb/> the faith<lb/> 
+                  <hi>ROBERT HARRIS.</hi>
+               </signed>
+               <dateline>
+                  <hi>From my poore Study,</hi>
+                  <lb/>
+                  <date>Iune <hi>13, 1642.</hi>
+                  </date>
+               </dateline>
+            </closer>
+         </div>
+         <div type="Parliamentary_order">
+            <opener>
+               <dateline>
+                  <date>Die Mercurii <hi>25.</hi> Maii <hi>1642.</hi>
+                  </date>
+               </dateline>
+            </opener>
+            <p>IT is this day Ordered by the <hi>Commons</hi> now aſſembled in <hi>Parliament,</hi> that <hi>M. Harris,</hi> and <hi>M. Obadiah Sedgwick,</hi> who this day being the day of the publike Faſt at the intreaty of the ſaid <hi>Commons</hi> preached at <hi>S. Margarets Weſtminſter,</hi> ſhall have thanks re<g ref="char:EOLhyphen"/>turned them, for the great and worthy paines they have taken, and that they bee deſired to print their Sermons, and that no man preſume to print them, but ſuch as they ſhall appoint, till the <hi>Houſe</hi> ſhall take further Order.</p>
+            <closer>
+               <signed>H. Elſyng Cler. Parl. D. Com.</signed>
+            </closer>
+         </div>
+         <div type="author_to_printer">
+            <p>I appoint <hi>Iohn Bartlet,</hi> to print my Ser<g ref="char:EOLhyphen"/>mon.</p>
+            <closer>
+               <signed>Robert Harris.</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="sermon">
+            <pb n="1" facs="tcp:156755:5"/>
+            <head>A SERMON PREACHED TO THE Honorable Houſe of COMMONS <hi>Aſſembled in PARLIAMENT,</hi> At a publike FAST, <hi>May</hi> 25. 1642.</head>
+            <epigraph>
+               <q>
+                  <bibl>LUKE 18.6, 7, 8.</bibl>
+                  <p n="6">6. And the Lord ſaid; Heare what the unjuſt Iudge ſaith.</p>
+                  <p n="7">7. And ſhall not God avenge his owne Elect, which cry day and night unto him; though he beare long with them?</p>
+                  <p n="8">8. I tell you, that he will avenge them ſpeedily: ne<g ref="char:EOLhyphen"/>vertheleſſe, when the Son of man cometh, ſhall he finde faith on the earth?</p>
+               </q>
+            </epigraph>
+            <p>
+               <seg rend="decorInit">W</seg>EE are in a <hi>Parable.</hi> A <hi>Parable</hi> delivers ſome excellent truth under a compariſon. That truth is now Prefixed, now Affixed; It is here <hi>prefixed,</hi> and it is this. <hi>In prayer wee muſt not faint, nor flagge.</hi> This the Point. And this is preſſed from the ſucceſſe, and that is argued
+<pb n="2" facs="tcp:156755:6"/>
+               <hi>ab Impari,</hi> thus. If conſtant and faithfull prayer cary it with the worſt, much more with the beſt: If with a bad man, then with our gracious <hi>God.</hi> This is the Summe.</p>
+            <p>The parts of the <hi>Parable</hi> are ordinary,
+<list>
+                  <item>1. <hi>A Propoſition,</hi>
+                  </item>
+                  <item>2. <hi>A Reddition</hi>
+                  </item>
+               </list>
+            </p>
+            <p>In both we have,
+<list>
+                  <item>1. <hi>Perſons repreſented,</hi>
+                  </item>
+                  <item>2. <hi>The ſucceſſe mentioned.</hi>
+                  </item>
+               </list>
+            </p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="1"/> In the firſt part, <hi>the Perſons</hi> on the one ſide are,
+<list>
+                  <item>1. <hi>Praying;</hi> a poore, ſhiſtleſſe, friendleſſe wi<g ref="char:EOLhyphen"/>dow who had no advocate but miſery and im<g ref="char:EOLhyphen"/>portunity.</item>
+                  <item>2. <hi>Prayed to;</hi> a ſowre, ſullen, froward peece, a man without ſenſe of <hi>Pietie,</hi> or <hi>Humanity,</hi> one who preſents as ill as may'be, whether <hi>Place</hi> or <hi>Perſon</hi> be conſidered. Yet ſee, this woman pre<g ref="char:EOLhyphen"/>vailes with this man.</item>
+               </list>
+            </p>
+            <p>In the ſecond part you have, for <hi>one</hi> woman, <hi>many</hi> men; for one <hi>ſtranger,</hi> many <hi>children:</hi> for <hi>occaſionall</hi> petitions, <hi>unceſſant ſuits:</hi> and for a <hi>bad Iudge, a good Father,</hi> who can no more deny his <hi>owne,</hi> then himſelfe. If then ſhe, a woman ſo weake, overcame a man ſo harſh: what may not children ſo many, do with a Father ſo good?</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="2"/> You have the <hi>Parable.</hi> Our worke lies in the <hi>Reddition,</hi> where
+<list>
+                  <item>1. <hi>Our bleſſed Saviour prefaces and premiſes, (Heare what the unrighteous Iudge ſaith)</hi> Heare it to your comfort; He ſpeaks ſome comfort, and (in him) God ſpeaks more.</item>
+                  <item>2. <hi>He aſſumes,</hi> and that moſt ſtrongly, as the
+<pb n="3" facs="tcp:156755:6"/>queſtion ſhews; <hi>Shall not God avenge, &amp;c.</hi> as if he had ſaid, It is out of queſtion, he will.</item>
+                  <item>3. <hi>He concludes.</hi> God will <hi>heare,</hi> will <hi>certainly heare,</hi> nay, will <hi>ſeaſonably heare,</hi> with a <hi>non obſtan<g ref="char:EOLhyphen"/>te;</hi> notwithſtanding he is ſeemingly ſlow in his anſwers, and we certainly weak in our faith and dependance. I will ſay no more, as yet, to the words.</item>
+               </list>
+            </p>
+            <p>Something I have to ſay to you, from them; and I hold it my <hi>happineſſe,</hi> that I, who have no breath to ſpare, ſhall ſpeake to thoſe, who will conceive faſter, and ſee farther, then I can ſpeak.</p>
+            <p>For my <hi>Errands;</hi> the firſt and maine reſults from the whole, and this it is.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Doct. </seg>1</label> 
+               <hi>In point of Prayer, we muſt gather all arguments of incouragement, and never yeeld,</hi>
+               <note place="margin">Col. 4 12. Rom. 15.30.</note> 
+               <hi>till we have the day.</hi> Prayer is a maſtery, and that maſtery is a wraſt<g ref="char:EOLhyphen"/>ling and wraſtle we muſt, whiles we can ſtand. When we are once drawne forth upon this ſer<g ref="char:EOLhyphen"/>vice, where we pitch, there wee muſt make good our ground, without flight, or fainting;<note place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> Militaria ver<g ref="char:EOLhyphen"/>ba, ut vult Euſtat. aliique.</note> as one word, in the firſt verſe here, and another in the laſt verſe, <hi>Heb.</hi> 10. is conceived to imply. This the Leſſon our Maſter is now teaching, and he char<g ref="char:EOLhyphen"/>ges it upon us as a duty in the firſt verſe. And for farther proof and incouragement, I preſent you onely with <hi>three Arguments.</hi>
+            </p>
+            <p n="1">1. <hi>The firſt is drawne from God;</hi> where he gives, <milestone type="tcpmilestone" unit="unspecified" n="1"/> we may, we muſt take all incouragements. Here God gives all, as
+<list>
+                  <item>
+                     <note place="margin">Pſal. 65.2. Can. 2.14.</note> 1. He offers himſelfe to us as a <hi>Father;</hi> as a <hi>Father hearing prayer,</hi> as a <hi>Father begging prayer,</hi>
+                     <pb n="4" facs="tcp:156755:7"/>as a <hi>Father loving prayer,</hi>
+                     <note place="margin">Pſal. 1 41.2. Epheſ. 3.20.</note> as a <hi>Father</hi> able to ex<g ref="char:EOLhyphen"/>ceed all prayers, needs, thoughts.</item>
+                  <item>2. He binds himſelfe as much by promiſe, as us by precept. Thoſe promiſes of his are <hi>full,</hi> are <hi>free;</hi>
+                     <note place="margin">Rom. 10.12. Deut. 4.7. Luke 11.10</note> 
+                     <hi>He is rich to all that call upon him: Every one that ſeeketh, findeth,</hi> and ſuch like: And thoſe promiſes are made to <hi>Chriſt,</hi> founded on <hi>Chriſt,</hi> ſealed in <hi>blood,</hi> backt with an <hi>Oath.</hi>
+                  </item>
+                  <item>
+                     <note place="margin">Iam 1.6. Heb. 4.16. &amp; 10.22. Epheſ. 3.12. Luke 11.</note> 3. He commands us to beg, and that without wavering; nay with all boldneſſe, with all con<g ref="char:EOLhyphen"/>fidence of boldneſſe, and fulneſſe of aſſurance.</item>
+                  <item>4. He armes us with Parables, experiments, and all arguments of comfort; Indeed ſuch <hi>To<g ref="char:EOLhyphen"/>picks,</hi> as that it is impoſſible for God to recede, if we ſtand our ground. And thus from God.</item>
+               </list>
+            </p>
+            <p n="2">
+               <milestone type="tcpmilestone" unit="unspecified" n="2"/> 2. <hi>Next to God,</hi> I preſent you with a <hi>cloud of Petitioners,</hi> who have ſtirred up themſelves, to take hold of God, and it hath taken well.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="1"/> I begin with <hi>Moſes.</hi> If a man would have been diſcouraged,<note place="margin">Exod. 32.10.</note> 
+               <hi>Moſes</hi> had beene the man.</p>
+            <list>
+               <item>1. The people were ſtark naught, and paſſing froward.</item>
+               <item>2. God ſeems to take him off, and to give him a diſcharge, <hi>Let me alone,</hi> ſaith he.</item>
+               <item>3. He ſeems to take off all objections. <hi>I will make of thee</hi> (ſaith he) in ſtead of them, <hi>a great people.</hi>
+               </item>
+               <item>4. He ſuſpends his anſwer, day after day, as if hee were unwilling to condeſcend. Yet <hi>Moſes</hi> ſtands to it. God cannot get him gone; away he will not, without his errand, his errand hee hath.</item>
+            </list>
+            <pb n="5" facs="tcp:156755:7"/>
+            <p> To him I adde <hi>Iacob our Father,</hi> who concludes <milestone type="tcpmilestone" unit="unspecified" n="2"/> 
+               <hi>Vs,</hi> as <hi>Hoſea</hi> ſaith. <hi>In him God ſpake with us.</hi>
+               <note place="margin">Hoſ. 12.4. Gen. 32 24.</note> This <hi>Iacob</hi> knowes not what diſcouragement means. <hi>God</hi> ſeemed to give him his anſwer, in <hi>Eſau's</hi> ex<g ref="char:EOLhyphen"/>pedition againſt him; but hee will not take it: <hi>God</hi> was willing to put him off; but hee will not admit of any <hi>Put-offs:</hi> hee ſeems to take his leave; but <hi>Iacob,</hi> by his leave, will not part ſo: he ſeems angry, and willing to ſhake him off; but <hi>Iacob</hi> holds his hold: nay, hee ſeems to cruſh him, to maime him, to begin <hi>E<g ref="char:EOLhyphen"/>ſau's</hi> quarrell againſt him; but hee, like him in ſtory, when hee was maim'd on one hand,<note place="margin">Cy<gap reason="illegible: faint" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>girus in Iuſtin.</note> holds the ſhip with the other, and when hee was hand<g ref="char:EOLhyphen"/>leſſe, held with his teeth, whileſt breath held: So our <hi>Champion:</hi> Froun <hi>God,</hi> ſmite hee, wound hee; <hi>Iacob</hi> is at a point. A <hi>Bleſsing</hi> hee came for, and a <hi>Bleſsing</hi> hee will have. <hi>I will not let thee goe,</hi> (ſaith hee) <hi>unleſſe thou bleſſe mee.</hi> His limbs, his life might goe: but there is no going for <hi>Chriſt,</hi> without a pawn, without a bleſſing. This is the man. Now what is his ſpeed? The <hi>Lord</hi> admires him, and honors him to all generations. <hi>What is thy name</hi> (ſaith hee) <hi>q. d. I never met with ſuch a fellow. Titles of honour are not worthy of thee. Thou ſhalt bee called, not Iacob,</hi> a ſhepherd with men: <hi>but Iacob, a Prince with God.</hi> Nay not <hi>Iacob,</hi> a wraſt<g ref="char:EOLhyphen"/>ler with man: but <hi>Iſrael,</hi> a prevailer with <hi>God.</hi>
+            </p>
+            <p>To theſe men, I adde one <hi>Woman, Matth.</hi> 15. <milestone type="tcpmilestone" unit="unspecified" n="3"/> who, like another <hi>Gorgonia,</hi> threatens heaven,<note place="margin">Nazi<gap reason="illegible: faint" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nz.</note> and is (as her brother ſaid of her) <hi>modeſtly impudent,</hi> and invincible. Nothing can diſcourage her.
+<pb n="6" facs="tcp:156755:8"/>Not her <hi>Sexe,</hi> not her <hi>Nation,</hi> not her <hi>Miſery,</hi> not her <hi>Delayes:</hi> but ſhee gathers ſtrength by her wounds, and comfort out of diſcouragements. Will <hi>Chriſt</hi> give no anſwer? Good, thinks ſhee: this is no denyall yet. Gives hee a diſcouraging anſwer? That's well, ſaith ſhee: I have obtained words, I expect deeds too: hee that opens his mouth, will open his hand alſo. Cals hee her dogge? all the better. Dogs ſome way belong to the family, ſome intereſt and right they have to ſome crumbs, to ſome ſcraps; and ſomething ſhe makes of it. You heare the Concluſion. <hi>O wo<g ref="char:EOLhyphen"/>man! Great is thy faith. Bee it unto thee, as thou wilt.</hi> I never met with ſuch a woman: have it ſhee will, and have it ſhe ſhall, and that inſtantly, (this very houre;) and that fully, ſhee's her own carver. And this is our <hi>ſecond Argument.</hi>
+            </p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="3"/> A third this parable furniſhes me withall. Courage in prayer drawes on importunity. Both cary it with man; much more with God. Marke the Widow. Shee ſtood in no relation to the Judge: Shee had no promiſe from him; his place and perſon promiſed little: There was little ho<g ref="char:EOLhyphen"/>neſty in him, and as little hope: either from or for her: yet ſhee ſcrues him up, and makes him weary of denials. <hi>What!</hi> a <hi>Woman</hi> in theſe cicum<g ref="char:EOLhyphen"/>ſtances <hi>Maſculine!</hi> and <hi>We Womaniſh!</hi> Conſider, I beſeech you, how much is wonne, or loſt, by holding up, or letting fall our ſpirits in prayer.</p>
+            <p>Are wee confident? Then conſider, that Prayer is the ſtrength of the Creature, (for it in<g ref="char:EOLhyphen"/>gages <hi>Gods</hi> ſtrength) &amp; confidence is the ſtrength
+<pb n="7" facs="tcp:156755:8"/>of our prayer, and of our ſelves: It doubles our ſtrength; It contributes to the Publike: It ſets <hi>God</hi> in the throne, nay us in a ſort: for ſo (with <hi>Iacob) we reigne with God.</hi> That made <hi>Iacob, Iſrael.</hi> Other wayes, and things might make him <hi>Iacob:</hi> but <hi>Prayer</hi> denominates him <hi>Iſrael.</hi> By this, hee, and wee, reigne over heaven, and earth, and ca<g ref="char:EOLhyphen"/>ry the world in our hand;<note place="margin">Plut.</note> As the <hi>Boy</hi> at <hi>Athens</hi> ſometimes ſaid (I bring it onely for illuſtration) <hi>Hee could command all Athens.</hi> His reaſon: <hi>Hee could doe any thing with his Mother; his Mother with his Father; his Father with that State:</hi> So here, <hi>Faith</hi> can doe any thing with <hi>Prayer; Prayer</hi> with <hi>Chriſt; Chriſt</hi> with his <hi>Father;</hi> his <hi>Father</hi> with <hi>All.</hi>
+            </p>
+            <p>But now, on the other ſide, <hi>Faintheartednes</hi> in prayer,
+<list>
+                  <item>1. <hi>Hurts us.</hi>
+                  </item>
+                  <item>2. <hi>Robs the Publike.</hi>
+                  </item>
+                  <item>3. <hi>Wrongs God.</hi>
+                  </item>
+               </list>
+            </p>
+            <list>
+               <item>1. <hi>For God.</hi> It is a true <hi>Maxime, True defects in</hi> 
+                  <milestone type="tcpmilestone" unit="unspecified" n="1"/> 
+                  <hi>the Creature come from falſly-conceited defects in the Creator.</hi> Thence our faith failes, becauſe we have ſo low, ſo narrow, and ſo poore conceits of <hi>Al<g ref="char:EOLhyphen"/>mighty God,</hi> whoſe glory is ſo much eclipſed, as wee 'bate any thing of his <hi>Al-ſufficiency,</hi> and prayers <hi>Omnipotency.</hi>
+               </item>
+               <item>2. <hi>For our ſelves.</hi> Diſcouragement robs us of <milestone type="tcpmilestone" unit="unspecified" n="2"/> our ſtrength. A diſcouraged man is but halfe a man. Hee lies open to every temptation; is ſoon beaten down, and from halting ſoon turnes aſide. Either hee prayes not at all: or not conſtantly:<note place="margin">Heb. 12 13.</note> at beſt, his prayers are fearfull, ſoon receive a check,
+<pb n="8" facs="tcp:156755:9"/>and take their anſwer. And, as it makes <hi>God</hi> but halfe a <hi>God,</hi> and <hi>Mans</hi> ſelfe but halfe a <hi>Man,</hi> ſo</item>
+               <item>
+                  <milestone type="tcpmilestone" unit="unspecified" n="3"/> 3. <hi>For others.</hi> It is not onely wanting to the <hi>Publick:</hi> but it hath an ill influence upon all. The truth is,<note place="margin">Qui <gap reason="illegible: faint" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>i<gap reason="illegible: faint" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>i<gap reason="illegible: faint" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>è ro<g ref="char:EOLhyphen"/>g<gap reason="illegible: faint" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>t, d<gap reason="illegible: faint" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ce<gap reason="illegible: faint" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>g<gap reason="illegible: faint" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                     <g ref="char:EOLhyphen"/>re. S<gap reason="illegible: faint" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>n: <hi>Deut. 20.8.</hi>
+                  </note> (If I may ſpeake it all at once.) It teaches <hi>God</hi> to <hi>Deny: our fellow-ſouldiers</hi> to <hi>Fly:</hi> (as the fearefull did in <hi>Iſrael:</hi> and our ſelves onely to <hi>Object,</hi> and to make difficulties, and in the end to <hi>Die for feare of Dying, Nabal-like.</hi>
+               </item>
+            </list>
+            <p n="1">
+               <label type="milestone">
+                  <seg type="milestoneunit">Ʋſe. </seg>1</label> 1. Before I <hi>Exhort,</hi> I cannot but bluſh at this baſeneſſe of ſpirit, in my ſelfe, in our nature. You are as willing as I to take ſhame to your ſelves this day, and to ſit before <hi>God</hi> (as <hi>Ezra</hi> did) <hi>confoun<g ref="char:EOLhyphen"/>ded.</hi> Tell mee (I beſeech you) for the furthering of our humiliation, Tell mee. <hi>Is not Cowardiſe bluſhfull? Will</hi> not men rather <hi>Die,</hi> then heare-<hi>Cowards?</hi> and what is that but <hi>Feare</hi> and <hi>Boldneſſe miſplaced?</hi> And what is this but our <hi>Temper?</hi> who are <hi>Daring,</hi> where wee ſhould <hi>Feare;</hi> and there onely <hi>Feare,</hi> where wee ſhould bee <hi>Valiant.</hi> I in<g ref="char:EOLhyphen"/>ſtance in the preſent work. Wee have <hi>Gods Paſſe,</hi> and <hi>Patent</hi> for <hi>Prayer,</hi> and dare not plead it: and yet elſewhere preſume without <hi>Licence.</hi> For I de<g ref="char:EOLhyphen"/>mand. Have not wee as good warrant to <hi>Pray,</hi> as to <hi>Curſe?</hi> to <hi>Bleſſe,</hi> as to <hi>Blaſpheme?</hi> yet here wee feare not, wee doubt not: there wee doe nothing els. I bring the caſe neerer to our purpoſe. What thinke you? Have not wee as good warrant to beg of <hi>God,</hi> as <hi>Rogues</hi> and <hi>Vagrants</hi> of us? They are ſtrangers; They have no promiſe from us; none the leaſt invitation: Nay, they trouble us, they charge us, they are in a diſobedience, there
+<pb n="9" facs="tcp:156755:9"/>is Law againſt <hi>them Asking, and us Giving:</hi> yet ſay, doe, what you pleaſe, they will not off. Send to them; they will ſooner make your child or ſervant their ſpokeſman, then make away. Threaten them with <hi>Stocks,</hi> or <hi>Officer,</hi> or what you pleaſe; it is all one. And ſhall theſe put forth in ſuch a tempeſt, in a contrary wind, when all makes againſt them? And wee ſit ſtill, when wind, and tyde, and all is for us? when we have <hi>Law</hi> on our ſides, and <hi>Goſpell</hi> on our ſides, and all the world on our ſides? For <hi>Prayer</hi> ingroſſes all the <hi>World, Heaven, Earth, All.</hi> I put it yet a little farther.</p>
+            <p>Have not wee as many incouragements from <hi>Heaven,</hi> as from <hi>Earth?</hi> Is not <hi>God</hi> as rich as <hi>Man?</hi> as <hi>able,</hi> as <hi>willing,</hi> as <hi>Free?</hi> yet ſee our practiſe. Wee have ſuites; theſe to <hi>God,</hi> thoſe to <hi>Men</hi> What's our deportment? With <hi>Men</hi> it is our work to <hi>Strengthen</hi> the heart; our labour to gather in<g ref="char:EOLhyphen"/>couragements. Is it a man wee <hi>Never troubled?</hi> That is made an argument of incouragement. <q>
+                  <hi>I never troubled him yet,</hi> and for <hi>Once</hi> hee'll never deny mee. Have wee <hi>tried</hi> him <hi>Often?</hi> That is an argument of incouragement. <hi>Such</hi> an one is my <hi>Old friend,</hi> my <hi>tried friend;</hi> hee <hi>Never failed me;</hi> and therefore I'll to him. Is hee a <hi>Kinſman?</hi> That incourages. For ſhame hee will not deny his <hi>Owne fleſh and bone.</hi> Is hee a <hi>Stranger?</hi> why then hee'll take it well, that I conceive better of him, then of my owne kindred. Is he <hi>Poore?</hi> Hee'll the better feele mee, and the ſooner pi<g ref="char:EOLhyphen"/>ty mee. Is hee <hi>Rich?</hi> Hee may the better ſpare
+<pb n="10" facs="tcp:156755:10"/>it.</q> Thus with <hi>men,</hi> wee have ſtill ſomewhat to ſay, for the ſupport of hope, though they bee poore, hard, ſtrangers, men no way ingaged by Covenant, or the like.</p>
+            <p>But now when wee deale with <hi>God</hi> (How can wee ſpeake of it without bluſhing!) wee can doe little els then <hi>Feare, Object, Deſpaire.</hi> 
+               <q>
+                  <hi>Sure, hee doth not love mee; Hee will doe nothing for me; well may I goe, and try; but it will bee to no pur<g ref="char:EOLhyphen"/>poſe. I ſhall get no pardon, no power, no comfort, no acceptation!</hi>
+               </q>
+            </p>
+            <p>O curſed <hi>Vnbeliefe!</hi> Can wee conceive hope, without promiſes? None with them? Can wee find <hi>Plea's</hi> for <hi>Men?</hi> None for <hi>God?</hi> Can <hi>Poverty</hi> help us, and not <hi>Wealth? Weakneſſe,</hi> and not <hi>Strength?</hi> Will <hi>Cruelty</hi> pity us, and not <hi>Mercy?</hi> not <hi>Grace?</hi> Bee abaſhed thus to ſet earth above heaven; men above <hi>God.</hi>
+            </p>
+            <p>Yet I have not done. I cannot without horror and trembling. Put the caſe as the caſe is. What thinke you? Have wee not reaſon to believe the <hi>God</hi> of <hi>Truth</hi> rather then the <hi>Father</hi> of <hi>Lyes?</hi> Let the Devill promiſe ſafety, ſecrecy, any profit, or content in a ſinfull way; wee reſt in his Word, wee make no doubt of the ſucceſſe: All the threats and curſes in the booke of <hi>God</hi> cannot diſmay us. On the other ſide: Suppoſe <hi>God</hi> promiſes, and the Devill in the meane time threaten us: which is beleeved? All the Promiſes, Sacraments, Oaths, Performances of <hi>God</hi> cannot eſtabliſh us. There is nothing but <hi>Preſuming,</hi> when Satan promiſes: no<g ref="char:EOLhyphen"/>thing but <hi>Objecting,</hi> when <hi>God</hi> promiſes. O blaſ<g ref="char:EOLhyphen"/>phemous
+<pb n="11" facs="tcp:156755:10"/>Unbeliefe! How doth this ſinne de<g ref="char:EOLhyphen"/>baſe <hi>God!</hi> bely <hi>God!</hi> as the word ſaith; provoke <hi>God</hi> beyond all provocations! How angry was his Majeſtie with <hi>Iſrael,</hi> for this ſinne? How an<g ref="char:EOLhyphen"/>gry with <hi>Moſes?</hi> How angry with <hi>Zachary?</hi> for this in one particular; and in a lower degree. O, how low muſt wee caſt our ſelves before our <hi>God</hi> this day, for this capitall ſinne! which is ſo much the worſe, by how much the more <hi>Spirituall</hi> it is, and <hi>Anti-Evangelicall.</hi> Seemes it a ſmall thing to us, to make <hi>God</hi> worſe then <hi>man?</hi> but we muſt make him worſe, then the worſt in <hi>Hell?</hi> What! Shall our unbelieving hearts not onely impute <hi>Lying</hi> to him, but put <hi>Perjury</hi> upon him alſo?<note place="margin">Tertul.</note> Hath not he ſworne, that <hi>Wee ſhall not ſecke him in vaine?</hi> And ſhall we beginne and conclude in unbeliefe? Is it not enough before prayer to ſay <hi>Hee will not heare:</hi> but after prayer, when he ha's heard, to ſay <hi>Ha's not heard?</hi> as <hi>Iobs</hi> words ſound, to ſome mens ſenſe. <hi>Iob.</hi> 9.16. But here let us ſit downe in our confuſion a while. And then let us <hi>Advance,</hi> and thinke it long, before wee have wip'd off this diſ<g ref="char:EOLhyphen"/>grace, and approv'd our valour.</p>
+            <p n="2">
+               <label type="milestone">
+                  <seg type="milestoneunit">Ʋſe </seg>2</label> 2. And here, what ſhall I entreat, but the per<g ref="char:EOLhyphen"/>uſall of the Text? You heare the Leſſon. <hi>We muſt</hi> 
+               <milestone type="tcpmilestone" unit="unspecified" n="1"/> 
+               <hi>hold out in prayer.</hi> You heare,</p>
+            <p>The <hi>Teacher,</hi> the <hi>onely Maſter</hi> upon earth. I looke upon you, as upon S. <hi>Lukes Theophilus,</hi> as men grounded in the truth; and therefore wil<g ref="char:EOLhyphen"/>lingly decline the <hi>Common Place</hi> of prayer, and wave old errors happily buried,<note place="margin">Aug. haereſ. <hi>57.</hi> &amp; epiſt. <hi>121.</hi> &amp;c.</note> with the unhappy diſputes of this age. How, and in what <hi>forme</hi> the
+<pb n="12" facs="tcp:156755:11"/>widow petitioned I diſpute not. <hi>Written,</hi> or <hi>not written, a petition</hi> is <hi>a petition</hi> ſtill. The thing I am to preſſe, is a <hi>reſolute perſeverance in prayer.</hi> And this will need ſome preſſing. For,
+<list>
+                  <item>1. We have a dull, baſe, feeble ſpirit, ready to receive all impreſſions of diſcouragement.</item>
+                  <item>2. Next, from without we ſhall not want diſ<g ref="char:EOLhyphen"/>couragements, if we will liſten to them.</item>
+               </list>
+            </p>
+            <p>Firſt, our owne guilty and unworthy hearts, (as before I intimated) will caſt a thouſand perils.</p>
+            <p>
+               <note place="margin">Vid. Ezr. &amp; Nehem.</note> Secondly, prophane ſpirits will entertaine us, as the enemies did the Church, with a thouſand ſcornes.</p>
+            <p>Thirdly, Friends (<hi>carnall</hi> and <hi>ſpirituall</hi>) will tell us, that it is all in vaine, too late, and impoſſible to prevaile.</p>
+            <p>Fourthly, Satan will roare upon us. Thou pray, O Hypocrite! Thy perſon is unwelcome, thy prayers abominable, thy heart, mouth, and hands loathſome; the pure eyes of the moſt ho<g ref="char:EOLhyphen"/>ly God cannot but loath thee, his glorious Maje<g ref="char:EOLhyphen"/>ſtly will confound thee.</p>
+            <p>Laſtly, The Lord himſelfe will ſometimes ſeeme an adverſary: he will hide himſelfe, when thou ſeekeſt him: run from thee as faſt as thou runneſt after him: now he will chide, now frown, now delay, now ſeeme to reject thee, and to ſcorne thy ſervices: in a word, quite to ſhake thee off, as <hi>Naomi</hi> ſeemed to beat off <hi>Ruth,</hi> when yet he de<g ref="char:EOLhyphen"/>ſires thy company, as ſhe <hi>Ruths.</hi> In this caſe thou muſt not ſhew thy ſelfe a <hi>daſtard,</hi> but gather ſpi<g ref="char:EOLhyphen"/>rit from the oppoſition.</p>
+            <pb n="13" facs="tcp:156755:11"/>
+            <p> Next <hi>the Times</hi> call upon us. <hi>The children are <milestone type="tcpmilestone" unit="unspecified" n="2"/> come to the birth,</hi>
+               <note place="margin">Ier. 30 7.</note> 
+               <hi>and there is no ſtrength to bring forth. It is the time of Iacobs trouble,</hi>
+               <note place="margin">Gen. 42.</note> and therefore we muſt not, with <hi>Iacobs</hi>-children, ſit as men a<g ref="char:EOLhyphen"/>mazed, but make out, as the <hi>old man</hi> adviſed them; the rather becauſe there are ſo few, that either <hi>will,</hi> or <hi>dare,</hi> or <hi>can</hi> lift up one faithfull prayer.</p>
+            <p>In the <hi>third place</hi> conſider the thing it ſelfe, I <milestone type="tcpmilestone" unit="unspecified" n="3"/> meane <hi>Prayer.</hi> It is our life, our ſtrength. All the world is a dead body, till God act it: and all (within and without us) lies dead till we act God by prayer: all the comfort in the creature ſleeps, till we extract it with this <hi>Limbeck:</hi>
+               <note place="margin">Dor<gap reason="illegible: faint" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>it ſides, d<gap reason="illegible: faint" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>it Cirſius. &amp;c. <hi>Aug i<gap reason="illegible: faint" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap> Pſal. 25.</hi>
+               </note> all our gra<g ref="char:EOLhyphen"/>ces, nay all the <hi>perfections of God,</hi> till we awaken him and them. You finde it, wee feele it: you have tried what <hi>Wit</hi> can doe, what <hi>Eloquence,</hi> what <hi>Policy,</hi> what <hi>Reſolution</hi> and <hi>Endeavor;</hi> yet we <hi>ſtick.</hi> Now try another way; <hi>Set Heaven on work,</hi> till that move, the <hi>earth ſtirs not. Set God on work,</hi> till he act, nothing is done: and when you have won him, you have won all. Whileſt there is but crea<g ref="char:EOLhyphen"/>ture to creature; wit to wit; created ſtrength to ſtrength created, the war is doubtfull, the iſſue uncertaine: But, when by prayer the <hi>great God</hi> is made, and ſo there is the <hi>Creator</hi> to the <hi>creature,</hi> and ſtrength to weakneſſe; then the victory is in ſight. My meaning is not to take you off from other meanes; onely this I ſay, that a <hi>good En<g ref="char:EOLhyphen"/>gineere</hi> is not the worſt <hi>Souldier;</hi> nor a good <hi>prayer</hi> the worſt <hi>Parliament-man.</hi> Faith can doe more then wit:<note place="margin">Numa apud Plut.</note> This brings men into the Field; but that God; and he onely ſecures the heart. <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>
+               <pb n="14" facs="tcp:156755:12"/>ſaid the Heathen, in his greateſt extremity; and there is our beſt Anchor-hold.</p>
+            <p>Go on in this your ſtrength, and your ſpiritu<g ref="char:EOLhyphen"/>all enemies ſhall melt before you, as once the Canaanites before Iſrael, and the <hi>Gauls</hi> before the <hi>Germans</hi> face.<note place="margin">Nec <gap reason="illegible: faint" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>ultum, nec <gap reason="illegible: faint" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>ulorum aciemf<gap reason="illegible: faint" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>re, &amp;c. <hi>Chryſ. de ora<g ref="char:cmbAbbrStroke">̄</g>
+                     <g ref="char:EOLhyphen"/>do Deum. l. 1.</hi>
+               </note> What more ſhall I ſay to you, in a way of perſwaſion? Shall I minde you of <hi>Chry<g ref="char:EOLhyphen"/>ſoſtoms</hi> argument? It is your honour, your hap<g ref="char:EOLhyphen"/>pineſſe, that you may thus dwell in Gods pre<g ref="char:EOLhyphen"/>ſence, and expreſſe your deſires. Do but thinke what it is to deale with great <hi>Perſonages,</hi> in way of petition. I. There is time ſpent in going to them: Then more in waiting on them: After ſundry dayes waiting, we may haply receive that proud <hi>Prelats</hi> anſwer,<note place="margin">Hildebr. <hi>to</hi> Henry <hi>4.</hi>
+               </note> 
+               <hi>Wee are not yet at leaſure:</hi> When we have acceſſe, we muſt be briefe, we may offend: The anſwer is doubtfull; ſometimes in<g ref="char:EOLhyphen"/>ſtead of <hi>Bread,</hi> men either give, or ſpeak <hi>Stones;</hi> however, no man can give <hi>all,</hi> to <hi>all Petitioners.</hi> But now when we deale with the <hi>high God,</hi> wee need not travell far, every place is a Sanctuary; nor need we abridge our ſelves, come when wee will, in the day, in the night: ſpeake whileſt we will, ſo long as we ſpeak his language, he will heare us at large, yea hee will help us out, and make Engliſh of that, which to our ſeeming wants ſenſe. And ſhould not this incourage us? Were they <hi>bleſſed that ſtood continually before Solo<g ref="char:EOLhyphen"/>mon?</hi> And is it not our happineſſe that wee may have <hi>Gods eare, Gods heart, hand, face, help, all?</hi> Or, ſhall I tell you, that Prayer is to us, what the wa<g ref="char:EOLhyphen"/>ter is to the Fiſh,<note place="margin">Chryſ. lib. 2. de Orat.</note> the onely Element of ſafety,
+<pb n="15" facs="tcp:156755:12"/>and our utmoſt refuge.</p>
+            <p>Truly the Lord hath reſerved divers things to this ordinance of prayer; ſome devils will not out, ſome temptations will not off, ſome obſtru<g ref="char:EOLhyphen"/>ctions will not be removed, ſome difficulties will not be conquered, ſome mercies will not be ob<g ref="char:EOLhyphen"/>tained, but by prayer. What other key will un<g ref="char:EOLhyphen"/>locke the clouds in this drought? or turn about the hearts of men, in this diſtraction, but onely prayer? And who knows but that therefore God hath futured other hopes, and fruſtrated other meanes, to the intent, that he might honor this ordinance?</p>
+            <p>For <hi>Motives</hi> I will ſay no more. Onely give leave to tell you in few, how you ſhall hold up the heart, from fainting in the work. The way is this.</p>
+            <list>
+               <item>1. <hi>Come well appointed into the field.</hi> Aſſure the <milestone type="tcpmilestone" unit="unspecified" n="1"/> the maine point. <hi>That your perſons are accepted,</hi> and that you are Gods <hi>owne,</hi> as it is in the Parable; for, till this be reſolved, that God is yours, and you his, all particular doubts will reſolve them<g ref="char:EOLhyphen"/>ſelves into this. <q>It is true (will your heart ſay) <hi>God is good to his:</hi> But am I his? His promiſes are gracious; but doe they belong to <hi>me?</hi>
+                  </q> And therefore lay that as a foundation, <hi>I am thine;</hi> and<note place="margin">Pſal. 119.94.</note> and then it will follow, as <hi>David</hi> infers, <hi>therefore ſave mee.</hi>
+               </item>
+               <item>2. <hi>Aſſure your Prayers,</hi> that they be acceptable. <milestone type="tcpmilestone" unit="unspecified" n="2"/>
+                  <list>
+                     <item>1. For the <hi>Root;</hi> They muſt be iſſues of <hi>Grace;</hi> not of wit or nature.</item>
+                     <item>2. For the <hi>Rule;</hi> They muſt</item>
+                  </list>
+                  <list>
+                     <pb n="16" facs="tcp:156755:13"/>
+                     <item>1. <hi>For matter;</hi> beare the ſtamp of God, his pre<g ref="char:EOLhyphen"/>cept, or promiſe.</item>
+                     <item>2. <hi>For Order;</hi> they muſt bee tendred in the hand of a <hi>Mediator,</hi> the <hi>Lord Chriſt.</hi> And</item>
+                     <item>3. <hi>For end;</hi> The object of prayer <hi>Gods ſelf</hi> muſt. be the <hi>end</hi> thereof. And the more we ſecure both <hi>Perſon,</hi> and <hi>Prayer,</hi> the more courage we ſhall have in ſtanding it out.</item>
+                  </list>
+               </item>
+               <item>
+                  <milestone type="tcpmilestone" unit="unspecified" n="3"/> 3. <hi>Come well appointed</hi> both for
+<list>
+                     <item>1. <hi>Weapons,</hi> and</item>
+                     <item>2. <hi>Company.</hi>
+                     </item>
+                  </list>
+               </item>
+            </list>
+            <p n="1">1. <hi>For company;</hi> The more the better; where<g ref="char:EOLhyphen"/>as in other fights and fields ſometimes multitude marres all. There is a ſpeciall promiſe upon joynt prayers, <hi>Mat.</hi> 18. And could we ſecond one another, as <hi>Bathſheba,</hi> and her friends did, in her addreſſe to the King, 1 <hi>King.</hi> 1. I ſhould not doubt of as good an iſſue our petitions, as ſhe found of hers.</p>
+            <p>O, That wee could meet! if not alwayes in the ſame place, at the ſame time: yet in the ſame requeſts.<note place="margin">Text.</note> If one widow can do ſo much alone; what might not an <hi>army</hi> of Children doe, if they would cloſe?</p>
+            <p n="2">2. <hi>As for weapons;</hi> The Lords owne are moſt approved, and will be onely available. He is a mighty <hi>Prince,</hi> who will be ſerved onely with his owne. Looke how it was in the Law: <hi>All muſt be Gods owne: The Prieſt his, the Sacrifice his, the Altar his, the Place his, All his;</hi> to the very <hi>knife,</hi> and meaneſt <hi>tooles:</hi> ſo is it ſtill. The <hi>Perſon</hi> praying muſt be his <hi>owne,</hi> the <hi>Prayer his,</hi> the
+<pb n="17" facs="tcp:156755:13"/>
+               <hi>Mediator his,</hi> the <hi>Petitions his,</hi> the <hi>Reaſons his, All his.</hi> And when you preſſe him with his own, and ſay (as <hi>ſhe to Iudah</hi>) <hi>Whoſe are theſe?</hi>
+               <note place="margin">Gen. 38.</note> he cannot de<g ref="char:EOLhyphen"/>ny himſelfe.</p>
+            <p>Being thus armed, and entred the liſts, play the men, and be victorious. There is but one thing more to be done. <hi>Set Faith on work,</hi> and that will be your victory.</p>
+            <p>If you ask me, <hi>How?</hi>
+            </p>
+            <p>The Anſwer is, <hi>Pitch faith upon God.</hi> Conſider,
+<list>
+                  <item>1. <hi>What he is.</hi> Why, he is a <hi>God,</hi> ſaith <hi>Chriſt.</hi> 
+                     <milestone type="tcpmilestone" unit="unspecified" n="1"/> That is all that can be ſaid. Not an Idol, that hath a dead eare, and a dry hand: Not a man, that hath but little, and can doe little, and will do leſſe: But he is</item>
+               </list>
+               <list>
+                  <item>1. <hi>A God;</hi> that is, <hi>Power</hi> it ſelfe, <hi>Wiſdome, Mercy, oodneſſe</hi> it ſelfe. View him well: for all in God makes for encouragement, when once we are his.</item>
+                  <item>2. He is not a God ſimply, but a God in <hi>Co<g ref="char:EOLhyphen"/>venant;</hi> and that <hi>Covenant</hi> is made with <hi>Chriſt;</hi> and by vertue of the <hi>ſame Covenant Chriſt,</hi> and <hi>wee</hi> are both heard.</item>
+                  <item>3. By vertue of this <hi>Covenant</hi> he is <hi>a Father;</hi> and what will not a Father doe, an heavenly <hi>Father</hi> for <hi>ſo many children?</hi> when <hi>all</hi> pray, and <hi>all</hi> in each child prayes: for wee make to him, as the child to the breaſt; all ſpeaks, and works at once, hands, feet, mouth, all, there and here.</item>
+               </list>
+               <list>
+                  <item>2. <hi>What his promiſes be.</hi> How <hi>free,</hi> how <hi>fit,</hi> how <milestone type="tcpmilestone" unit="unspecified" n="2"/> 
+                     <hi>attempered to our exigencies,</hi> and <hi>needs.</hi> 1. They are made to the loweſt degree of grace, <hi>Matth. 5.</hi>
+                  </item>
+                  <pb n="18" facs="tcp:156755:14"/>
+                  <item> 2. They are made to grace mingled with many wants and corruptions, to <hi>bruiſed Reeds.</hi>
+                  </item>
+                  <item>
+                     <milestone type="tcpmilestone" unit="unspecified" n="3"/> 3. <hi>What he is in his deeds.</hi> 1. He gives us <hi>two Mediators; His Sonne, his Spirit.</hi> 2. Hee gives more then is asked, never leſſe. 3. He gives cheerefully. Before wee end, he begins. 4. Hee gives to many for our ſakes;<note place="margin">Eſ. 65.24. Dan. 9.</note> maintaines a world of men, and creatures, for our uſe. And ſo long as wee ſee one of them alive, wee cannot juſtly doubt of his faithfulneſſe to us.</item>
+                  <item>4. <hi>Laſtly, conſider what he is in his Parables.</hi> Here he ſhews us what <hi>Prayer</hi> can doe with a <hi>Iudge. Luke</hi> 11. He tels us what <hi>Prayer</hi> can doe with a <hi>Neighbour,</hi> what with a <hi>Father;</hi> and infers incou<g ref="char:EOLhyphen"/>ragement from all.</item>
+               </list>
+            </p>
+            <p>
+               <hi>Is he a Iudge? A Iudge</hi> may be overcome with importunity.</p>
+            <p>
+               <hi>Is he a Friend? A Friend</hi> may be raiſed out of his bed with intreaties.</p>
+            <p>
+               <hi>Is he a Father?</hi> And are we Fathers? and do not we feele the force of that argument? <hi>If yee,</hi> that are but <hi>ſory Fathers, will give good things to a child: will not your heavenly Father much more?</hi>
+            </p>
+            <p>Now having by an eye of <hi>Faith</hi> thus looked upon God, in his <hi>Perfections, Relations, Promiſes, Performances, Parables:</hi> Gather upon God, and hold him to it, as <hi>Iacob</hi> did. <hi>Didſt not thou command mee? Saidſt thou not thus unto mee? &amp;c.</hi> Preſſe him with his <hi>Precept,</hi> with his <hi>Pro<g ref="char:EOLhyphen"/>miſe,</hi> with his <hi>Hand,</hi> with his <hi>Seale,</hi> with his <hi>Oath,</hi> till we do <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, as ſome <hi>Greek Fathers</hi> do bold<g ref="char:EOLhyphen"/>ly ſpeak: That is, (If I may ſpeak it reverently e<g ref="char:EOLhyphen"/>nough
+<pb n="19" facs="tcp:156755:14"/>after them) <hi>Put the Lord out of countenance; Put him</hi> (as you would ſay) <hi>to the bluſh,</hi> unleſſe we be Maſters of our requeſts.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Obj. </seg>
+               </label> O, But is not this too great an impudence?</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">An. </seg>
+               </label> There is a lawfull impudence; as there is a hurtfull baſhfulneſſe; witneſſe our <hi>Saviour</hi> his phraſe, <hi>Luke</hi> 11.8. <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>
+            </p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Obj. </seg>
+               </label> O, But God is a <hi>great</hi> God.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">An. </seg>
+               </label> Yea, But he will pity, and heare like a <hi>man,</hi> and in that reſpect compares himſelfe to <hi>man,</hi> in theſe Parables.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Obj. </seg>
+               </label> O, But hee is a <hi>Glorious Majeſty.</hi>
+            </p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">An. </seg>
+               </label> Yea, But hee is a <hi>Father.</hi> And a <hi>Kings ſon</hi> may go as freely to his Father, as a <hi>Beggers.</hi>
+            </p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Ob. </seg>
+               </label> 
+               <hi>O. But it is too late.</hi>
+            </p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">An. </seg>
+               </label> Come in the <hi>Night,</hi> if the <hi>Day</hi> be loſt. At <hi>mid<g ref="char:EOLhyphen"/>night</hi> the neighbour heard his neighbour, <hi>Luk.</hi> 11.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Obj. </seg>
+               </label> 
+               <hi>O, But my prayers be ſimple.</hi>
+            </p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">An. </seg>
+               </label> And here is a <hi>ſimple ſuitor</hi> in the Parable. Art thou a <hi>Child?</hi> A Father accepts of ſmall, broken, imperfect ſpeeches from a child.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Obj. </seg>
+               </label> O, But I apprehend God as a <hi>Iudge.</hi>
+            </p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">An. </seg>
+               </label> The woman had to doe with a <hi>Iudge</hi> in the Text. Thou haſt a Mediator, and he is a <hi>Son,</hi> a <hi>Son</hi> that never ſinned, never diſpleaſed. Plead him, and then make ſupplication to thy <hi>Iudge,</hi> as <hi>Iob</hi> did.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Obj. </seg>
+               </label> 
+               <hi>O, But?</hi>
+            </p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">An. </seg>
+               </label> No more <hi>O Buts.</hi> Silence unbeliefe. Turne faith looſe. Our worke ſhould be to ſtrengthen, not to weaken our hearts: to greaten our <hi>Faith,</hi> not our <hi>Feares.</hi> And there is no temptation ſo
+<pb n="20" facs="tcp:156755:15"/>ſtrong, but faith will conquer it: no affliction ſo great, but faith will ſupple it: no priſon ſo ſtrait, but faith will open it: no objection ſo forked, but faith will diſſolve it: no danger ſo imminent, but faith will out-face it. <hi>Help this, and Help all: Awaken this, and Awaken all.</hi> Re<g ref="char:EOLhyphen"/>member the Story of another Widow, 2 <hi>King.</hi> 4. She had little: She needed much. <hi>Borrow</hi> (ſaith the Prophet) <hi>of all thy neighbours: But ſhut the doores upon thee.</hi> It was time to ſhut the doores, when many greater veſſels muſt bee ſupplied from one little one. I ſay the like to you. <hi>Shut the Doores:</hi> Shut out ſenſe, ſhut out all diſcou<g ref="char:EOLhyphen"/>ragements, which would put faith out of coun<g ref="char:EOLhyphen"/>tenance: And, if God fill not every veſſell, challenge him upon that his word,<note place="margin">Pſal. 31.10.</note> 
+               <hi>Open thy mouth wide, and I will fill it.</hi> And take this with you. <hi>The Cruſe never ceaſed running, till there was no more room.</hi> As elſewhere God never ceaſed bating, till <hi>Abraham</hi> left begging.</p>
+            <p>I have ſpoken to the <hi>Point.</hi> Now the <hi>Lord</hi> in<g ref="char:EOLhyphen"/>large you in private. I am ſenſible of your occaſi<g ref="char:EOLhyphen"/>ons. I am unwilling to abridge my <hi>Worthy Brother.</hi> And therefore I will ſay as much as I can at <hi>Once,</hi> to the particular following, and contract my ſelf.</p>
+            <p>
+               <hi>The ludge</hi> in the <hi>Protheſis</hi> we paſſe. The Com<g ref="char:EOLhyphen"/>pariſon <hi>E Medio</hi> imitates a mercy, in <hi>Having Iud<g ref="char:EOLhyphen"/>ges.</hi> I adde onely the <hi>Orators</hi> qualification,<note place="margin">Ci<gap reason="illegible: faint" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>p<gap reason="illegible: faint" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>o Milo<gap reason="illegible: faint" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>e.</note> 
+               <hi>Madò audeant que ſentiunt.</hi>
+            </p>
+            <p>The <hi>Aſſumption</hi> comes on with great ſtrength, and holds out this to us.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Doct. </seg>2</label> 
+               <hi>The Lord will certainly avenge his owne.</hi>
+            </p>
+            <pb n="21" facs="tcp:156755:15"/>
+            <p> For the <hi>Termes</hi> this may ſuffice. <hi>His own by Ele<g ref="char:EOLhyphen"/>ction,</hi> as it is added.</p>
+            <p>
+               <hi>Election</hi> is either to <hi>Glory,</hi> or <hi>Election</hi> is either to <hi>Office.</hi> Wee exclude nei<g ref="char:EOLhyphen"/>ther: wee prefer the former. <hi>God</hi> hath a <hi>Peculiar</hi> (not a <hi>Puccian) choice.</hi> The <hi>Number,</hi> whether <hi>Ma<g ref="char:EOLhyphen"/>terially,</hi> or <hi>Formally</hi> conſidered, is to him Certaine. The <hi>Perſons</hi> knowne. And them hee'll <hi>Avenge. (Avenge,)</hi> that is, 1. Vindicate them, and 2. Re<g ref="char:EOLhyphen"/>taliate their enemies.</p>
+            <p>For proofe thus.</p>
+            <list>
+               <item>1. <hi>Gods title is, The Avenger. Pſal.</hi> 94. 1. As <milestone type="tcpmilestone" unit="unspecified" n="1"/> elſewhere, <hi>The Protector, The Second,</hi>
+                  <note place="margin">So the vulgar and the 70, often in the Pſalmes read <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>, Protector, &amp;c.</note> or <hi>Champion</hi> of his people.</item>
+               <item>2. <hi>'Tis his Place, as Iudge. Gen.</hi> 15. 14.</item>
+               <item>3. <hi>'Tis his Prerogative, as Supreme.</hi> A <hi>Regali<g ref="char:EOLhyphen"/>ty</hi> inveſted in the <hi>Deity. Vengeance is mine.</hi> Un<g ref="char:EOLhyphen"/>leſſe <hi>God</hi> iſſue out a <hi>Commiſsion,</hi> and give power, none muſt revenge.</item>
+               <item>4. <hi>'Tis his Glory.</hi> Hee's knowne by it. <hi>Pſal.</hi> 9. 16 He ſhines in it, and is lifted up into the throne. <hi>Pſal.</hi> 94. 1. Here all his <hi>Perfections, Wiſdome, Power Iuſtice, Truth</hi> are <hi>Concentrate.</hi> That's from <hi>Gods</hi> ſelfe.</item>
+            </list>
+            <p>
+               <hi>Next, From his People. God</hi> is moſt concern'd <milestone type="tcpmilestone" unit="unspecified" n="2"/> in all their ſufferings.</p>
+            <list>
+               <item>1. <hi>The Cauſe is his:</hi> and hee's ſtruck at in it. The thing purſued in a Saint, is, <hi>not ſinne,</hi> nor the <hi>Mans ſelfe:</hi> But <hi>God</hi> in his <hi>Truth</hi> and <hi>Graces.</hi> Hereupon the Church intitles him to her quar<g ref="char:EOLhyphen"/>rels, <hi>Pſal.</hi> 74. 22.</item>
+               <item>2. <hi>Next, The Perſons bee his: his Children.</hi>
+                  <pb n="22" facs="tcp:156755:16"/>And the Father feeles what the Child ſuffers: and whither els ſhould Children fly, but to their Fa<g ref="char:EOLhyphen"/>ther? Nay, in a ſort, by <hi>Acceptation,</hi> and <hi>Inter<g ref="char:EOLhyphen"/>pretation,</hi> they are <hi>God himſelfe. Hee, that touch<g ref="char:EOLhyphen"/>eth them, toucheth him in his tendreſt part. Zach.</hi> 2. 8.</item>
+               <item>
+                  <milestone type="tcpmilestone" unit="unspecified" n="3"/> 3. <hi>Thirdly, From their Enemies.</hi> They have no aime in their hand. They ſtrike at <hi>All,</hi> with <hi>Haman.</hi> Yea they triumph over <hi>God</hi> himſelfe, when they trample upon his: as a King is ſaid to bee conquer'd, when his ſubjects bee ſubdued. Hence in Scripture,<note place="margin">Vid. learned Mede in 1 Tim. 4. 1.</note> 
+                  <hi>A Nation,</hi> and their God ſtand and fall together. 2 <hi>King.</hi> 28. 33. <hi>Ier.</hi> 48. 7. and 50. 2.</item>
+            </list>
+            <p>
+               <hi>This Point</hi> (applied) is
+<list>
+                  <item>1. <hi>Of Private</hi> concernment, and</item>
+                  <item>2. <hi>Of Publike</hi> uſe.</item>
+               </list>
+            </p>
+            <p>
+               <hi>In Private,</hi> it hath a <hi>Threefold</hi> proſpect.</p>
+            <p n="1">
+               <milestone type="tcpmilestone" unit="unspecified" n="1"/> 1. It lookes backward, and bids us reflect up<g ref="char:EOLhyphen"/>on our ſelves. And in caſe wee have been wrong<g ref="char:EOLhyphen"/>full to the Name, Perſon, State of any of <hi>Gods;</hi> ſet all to <hi>Rights</hi> this day. 'Tis the worke of this day. 'Tis <hi>The Faſt. Iſay.</hi> 51. There <hi>God</hi> ſhewes <hi>What is, What is not a Faſt</hi> to him.</p>
+            <p>To hang the head for ſome houres, that's not <hi>The Faſt.</hi>
+            </p>
+            <p>
+               <hi>The Faſt is. To looſe the bands of wickednes, to un<g ref="char:EOLhyphen"/>doe the heavy burdens, and to let the oppreſſed goe free, &amp; that yee breake every yoke. Is it not &amp;c? ver.</hi> 6.7. Let's come home therefore to out buſineſſe. Is a<g ref="char:EOLhyphen"/>ny <hi>ſervant defeated?</hi> Any <hi>Tenant</hi> by us <hi>oppreſſed?</hi>
+               <pb n="23" facs="tcp:156755:16"/>Any <hi>Creditor defrauded?</hi> Any <hi>poore Chriſtian</hi> any way <hi>wronged?</hi> Let my counſell bee accepted.— <hi>Break off your ſinnes by righteouſneſſe, and your ini<g ref="char:EOLhyphen"/>quities by ſhewing mercy to the poore, &amp;c. Dan.</hi> 4. Pay for the cure; Make ſatisfaction for the wrong; Compound with the <hi>Plaintiffs;</hi> Let them ſtay the ſuite, become mediators for you. This is <hi>Gods</hi> way, in the Caſe of <hi>Abraham</hi> with <hi>Abime<g ref="char:EOLhyphen"/>lech, Gen.</hi> 20. of <hi>Iob</hi> with his <hi>Friends, Iob ult.</hi>
+            </p>
+            <p>
+               <hi>Give</hi> (ſaith God) <hi>the man his wife: hee is a Pro<g ref="char:EOLhyphen"/>phet, my Prophet: Hee ſhall pray for thee: ſo thou ſhalt live: elſe thou art a dead man.</hi> And for <hi>Iob; Hee is my Servant</hi> (ſaith God) you have done him wrong: Right him againe: And <hi>Let him ſa<g ref="char:EOLhyphen"/>crifice: Him will I accept: you without him I accept not.</hi>
+            </p>
+            <p>You ſee the courſe. If you tread it, <hi>your Faſt takes, your Prayers paſſe:</hi> If not, <hi>The Iudge is on the bench; hee will Have Eye for Eye: Tooth for Tooth.</hi> My meaning is, Hee will returne you your owne Coine; and the more ſilent the Patient is, the more ſhrill the <hi>Wrong</hi> will bee; as in the caſe of <hi>Moſes, Numb.</hi> 12. 2. whileſt hee is dumb, <hi>God</hi> ſpeaks, whileſt he is deafe, <hi>God</hi> heares, and ſtirres. And ſurely <hi>Faſt</hi> wee muſt from all <hi>Vnjuſtice,</hi> or <hi>Faſt</hi> from nothing. Better eat bread, then drinke blood, and devoure mans fleſh. I referre you, in this haſte, to <hi>Iob</hi> 31. 21. to <hi>Exod.</hi> 23. <hi>v.</hi> 23.24. &amp; 27. I muſt away.</p>
+            <p n="2">2. This reſpects the time preſent. <hi>Will God</hi> 
+               <milestone type="tcpmilestone" unit="unspecified" n="2"/> avenge? <hi>Hold yee your hands.</hi>
+               <note place="margin">1 Sam 24.13.</note> 
+               <hi>Let wickedneſſe pro<g ref="char:EOLhyphen"/>ceed from the wicked. Let not your hand bee upon
+<pb n="24" facs="tcp:156755:17"/>him.</hi> Yea hold your <hi>Tongues,</hi> your <hi>Hearts,</hi> and bee not ſo impotent, as to returne wrath for wrath: much leſſe to band jeſts, and girds. 'Tis for chil<g ref="char:EOLhyphen"/>dren to <hi>ſpit at one another.</hi> Bee yee ſo <hi>Manlike,</hi> ſo <hi>Kinglike,</hi>
+               <note place="margin">Regiumeſt, &amp;c.</note> as to doe <hi>Beſt,</hi> when yee heare <hi>Worſt:</hi> ſo <hi>Chriſt-like,</hi> as to <hi>overcome all evill</hi> with <hi>all good<g ref="char:EOLhyphen"/>neſſe.</hi> And in caſe you bee at any time either plai'd upon, with <hi>David,</hi> or trod upon with that Great <hi>Prince,</hi>
+               <note place="margin">Barbaroſſa, Non tibi, ſed Petro. V. 10. V<gap reason="illegible: faint" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>ſin.</note> ſay, <hi>Non tibi, ſed Chriſto:</hi> ſay, <hi>'Tis before the Lord.</hi> And, if no law will relieve you, know that you ſhall doe your ſelves no diſſervice, in making <hi>God</hi> your <hi>Chancellor.</hi>
+            </p>
+            <p n="3">
+               <milestone type="tcpmilestone" unit="unspecified" n="3"/> 3. For the future; This muſt fixe us on our duty, what ever the caſe bee. The matter is not what the <hi>Worke:</hi> but what our <hi>Warrant</hi> is. 'Tis certain, we ſhall meet with oppſition in the pur<g ref="char:EOLhyphen"/>ſuance, and performance of our Callings: Eſpe<g ref="char:EOLhyphen"/>cially <hi>You,</hi> that are more publike perſons, and have more earneſt conteſtation with open delin<g ref="char:EOLhyphen"/>quents. Lugge but one ſwine, and there will bee a great outcry. But here's the <hi>Point.</hi> Are yee <hi>Gods</hi> in the Cauſe? Is the worke his? The de<g ref="char:EOLhyphen"/>ſigne his? your weapons his? your method his? Have you to ſhew a <hi>warrant,</hi> and <hi>Commiſsion</hi> from him? <hi>Feare no Colours: Though every bricke were a Devill:</hi> Goe on with <hi>Luther.</hi> Your <hi>names, lives, poſterity</hi> are in his hands. Hee ſpeaks to you, as <hi>Abſolom</hi> to his, <hi>Feare not: have not I com<g ref="char:EOLhyphen"/>manded you?</hi> 2 <hi>Sam.</hi> 13. 28. And, when you can juſtify your proceedings to him, reply upon your owne feares, in <hi>Nehemiah's</hi> words; <hi>Should ſuch a man as I flee?</hi> I! who pretend to God! I! a Pub<g ref="char:EOLhyphen"/>like
+<pb n="25" facs="tcp:156755:17"/>perſon! Should I fly with a whole <hi>Corporati<g ref="char:EOLhyphen"/>on,</hi> nay <hi>Countie</hi> on my back! Hath my Countrey intruſted mee, given mee her ſelfe? <hi>Et Turnum fu<g ref="char:EOLhyphen"/>gientem haec terra videbit!</hi> Farre bee this from <hi>Noble Spirits.</hi> Aſſure the Cauſe, Calling, Con<g ref="char:EOLhyphen"/>ſcience: and that done, Fix your viſible eye upon the <hi>inviſible God,</hi> as <hi>Moſes,</hi>
+               <note place="margin">Heb. 11.27: 1 Reg 22.19.</note> and <hi>Michaiah</hi> did be<g ref="char:EOLhyphen"/>fore you: and all the Glory and Majeſtie in the world will ſeeme no more to you, then it did to them; or then a poore Candle is to the brighteſt Sunne. So the firſt Uſe.</p>
+            <p>The <hi>ſecond</hi> is more Publike, and it is Dou<g ref="char:EOLhyphen"/>ble. <milestone type="tcpmilestone" unit="unspecified" n="2"/>
+            </p>
+            <p>
+               <hi>You</hi> of Publike ranke muſt
+<list>
+                  <item>1. <hi>Concurre</hi> with <hi>God</hi> the <hi>Avenger,</hi>
+                  </item>
+                  <item>2. <hi>Confide</hi> in him.</item>
+               </list>
+            </p>
+            <p>For the firſt. The <hi>Lord</hi> hath taken you into Commiſſion with himſelfe; put his <hi>Name,</hi> his <hi>Power</hi> upon you. What it is I cannot determine, nor doe I meddle with your priviledges. What ever 'tis, 'tis <hi>Gods;</hi> 'tis of him and for him, and muſt bee managed accordingly. It ſhall bee your ſafety to frequent your commiſſion. 'Tis <hi>Derived,</hi> 'Tis <hi>Limited,</hi> yea and 'Tis <hi>Publike</hi> too; and muſt bee managed with a <hi>Publike ſpirit.</hi> Private revenge is not within your Commiſſion. That leaves a ſtaine upon a man ſome wayes innocent; witneſſe <hi>Iehu:</hi> And puts an innocency upon the greateſt offender; witneſſe <hi>Abner.</hi>
+            </p>
+            <p>Here then all ſelfiſh affections, and private re<g ref="char:EOLhyphen"/>ſpects muſt be 1. ſtrained out, and <hi>Iuſtice Iuſtice,</hi> as <hi>Moſes</hi> ſpeaks, that is, <hi>Pure Iuſtice</hi> without mudde,
+<pb n="26" facs="tcp:156755:18"/>muſt run down. <hi>Deut.</hi> 16.20. And 2. reſtrained in all others. And bee aſſured that you have done, and ſhall doe your ſelves greateſt right, in <hi>Diſa<g ref="char:EOLhyphen"/>dopting,</hi> and <hi>Diſavowing</hi> all illegall, tumultuary, ſelfe-revenging, and libellous wayes. Gods cauſe needs not mans ly, mans froth, ſplene, malice. And it ſhall bee your happineſſe to put a wide di<g ref="char:EOLhyphen"/>ſtance betweene <hi>Iuſtum</hi> and <hi>Iuſtè:</hi> betweene the courage of the Sonne, and the diſorder of the Souldier,<note place="margin">Manlius. Plus eſt in imperio, quam in victo<g ref="char:EOLhyphen"/>ria. Florus l. 1. c. 14.</note> with that <hi>Old Generall.</hi> Your revenge muſt bee publike, then yea all publike in it. <hi>Per<g ref="char:EOLhyphen"/>ſon, Cauſe, Rule, End, All;</hi> and then it will bee a Sanctuary to the innocent, a Sacrifice to the <hi>Lord.</hi>
+            </p>
+            <p>What <hi>Iehoſhaphat</hi> once ſaid to his <hi>Iudges,</hi> I ſay to you, <hi>Let the feare of God fall upon you. Take heed; The Iudgement is Gods, not mans. 2 Chron.</hi> 19.</p>
+            <p>Nothing of man muſt bee ſeene, heard, felt in this. All muſt bee <hi>Gods. God</hi> muſt bee read in your Lawes, heard in your Threats, felt and ſeene in your Executions: And then things come upon the Conſcience with power, when onely God is repreſented.</p>
+            <p>Upthen, <hi>Yee viſible Gods,</hi> and remember that <hi>God</hi> avenges by you. 1. In <hi>Civill</hi> cauſes. Say, what <hi>God</hi> would ſay; doe, what hee would doe: you are his mouth, his hand. Avenge the Widow, Re<g ref="char:EOLhyphen"/>lieve the Oppreſſed. And if your leiſure will not admit of <hi>Iobs</hi> ſearch: yet doe you admit of <hi>Iethro's</hi> counſell.<note place="margin">Iob 29.16. Exod. 18.</note> 
+               <hi>Diſmiſſe them timely,</hi> when you cannot preſently diſpatch, leſt you tire them, and waſt your ſelves.</p>
+            <p n="2">
+               <pb n="27" facs="tcp:156755:18"/> 2. In matters of higher Alloy: Avenge <hi>God,</hi> as hee ſhall avenge you. <hi>Make lawes to fence his lawes.</hi> Plead his right. Vindicate his truths, his name, his day. And that done, in a conformity to <hi>God,</hi> then in the next place, 2. <hi>Confide in him.</hi> Beleeve your <hi>Saviour. God will certainly avenge his owne;</hi> his owne ſervants, his owne delegates, and ſubſtitutes. Hee will <milestone type="tcpmilestone" unit="unspecified" n="1"/> vindicate their name, their cauſe, their truth. Hee will bee jealous over them, when they are truly zealous for him. Reſt in this. Nay further know, <milestone type="tcpmilestone" unit="unspecified" n="2"/> 
+               <hi>God</hi> will avenge, not <hi>Members</hi> onely, but <hi>Whole Churches,</hi> and Societies, that are his: <hi>His owne, all his owne,</hi> whether Private, or Publike, hee will defend. And, if it ſhall pleaſe him to make us yet more his owne, and to draw us neerer to himſelfe in a cloſer Covenant, ſo that wee bee his <hi>Ieſurun,</hi> hee will bee to us, as once to <hi>Ia<g ref="char:EOLhyphen"/>cob, The ſhield of our defence, the ſword of our excel<g ref="char:EOLhyphen"/>lency: Hee will beare us in his everlaſting armes;</hi> as it is <hi>Deut.</hi> 33. more at large.</p>
+            <p>Yea hee will looke upon all the Blaſphemies, Inſolencies, Outrages, and Conſpiracies againſt this our Church, and State, and at once retaliate our Adverſaries, and juſtify our cauſe.</p>
+            <p>The Concluſion is that of the <hi>Kings. Deale cou<g ref="char:EOLhyphen"/>ragiouſly: the Lord ſhall bee with the good.</hi> When the Cauſe is good, and the <hi>Heart good,</hi> and War<g ref="char:EOLhyphen"/>rant good; <hi>God</hi> will bee with you, in <hi>his Counſell</hi> to <hi>Direct,</hi> in his <hi>Power</hi> to <hi>Protect,</hi> in his <hi>Goodnes</hi> to <hi>Avenge.</hi> So ſaith <hi>The Amen,</hi> and <hi>faithfull wit<g ref="char:EOLhyphen"/>neſſe.</hi>
+            </p>
+            <p n="3">
+               <pb n="28" facs="tcp:156755:19"/> 3. Nay yet farther. As this muſt comfort us for our owne particular, in this our <hi>Little Moat:</hi> So for the publike, and the <hi>Church</hi> in genetall. The cauſe of <hi>Religion</hi> is, you know, <hi>Gods</hi> cauſe. The cry of <hi>Blood</hi> belongs to his <hi>Recognizance. Hee makes inquiſition for blood.</hi>
+               <note place="margin">Pſal. 9.</note> The blood of his cryes loud, and hath cryed long againſt <hi>That Man of Sinne, and Man of blood.</hi> Under the Fifth Seale the blood of the <hi>Then Saints</hi> cryed apace, <hi>How long! &amp;c.</hi> That cry open'd a <hi>Sixt</hi> Seale; and then the <hi>Bloody Dragon</hi> cry'd as faſt, <hi>O yee hills, and Mountaines cover us! &amp;c.</hi> Since that, ther's an In<g ref="char:EOLhyphen"/>undation of blood, that cryes from all Coaſts, and cryes more then ever. Even thy blood <hi>O Germa<g ref="char:EOLhyphen"/>ny,</hi> and thine, <hi>O France,</hi> and thine, <hi>O Ireland. God</hi> hath ſaid, that <hi>Hee that kils ſhall bee killed,</hi> and that blood ſhall anſwer blood, <hi>Revel.</hi> 13.10. The time drawes on, and <hi>Cry on yee bleeding Churches: Cry on yee Prophets, and Apoſtles,</hi> in your Sack<g ref="char:EOLhyphen"/>cloth, in your blood. And thou, <hi>O England,</hi> with thy <hi>Cranmers, Ridlies, Bradfords. Cry on,</hi> and give the <hi>Lord</hi> no reſt, <hi>O yee his Saints,</hi> whoſe blood is ſhed, till he <hi>That's holy and true avenge your Blood.</hi> And</p>
+            <p>
+               <hi>Yee,</hi> O NOBLES, and much honoured GENTLEMEN:<note place="margin">
+                  <gap reason="illegible: faint" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>tus lib. 2. <gap reason="illegible: faint" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>. 15.</note> doe yee ſet your hands to this <hi>Carthage,</hi> that buſles moſt; and this <hi>Blondy-Beaſt,</hi> which bites worſt, in her laſt conflict. And, when yee have done all, <hi>Stand by the Glaſſy Sea, with your harpes ready,</hi> till the <hi>Lord</hi> ſhall be pleas'd to empty the <hi>Fifth Viall upon the throne of the Beaſt, and caſt the great mil-ſtone into that Sea of blood.
+<pb n="29" facs="tcp:156755:19"/>Amen. Even ſo come</hi> LORD IESUS; <hi>Take to thy ſelfe thy great power, and let the blood-ſheds of the Great Whore come in remembrance before thee. Amen.</hi>
+            </p>
+            <p>Followes the Third, which delivers the man<g ref="char:EOLhyphen"/>ner how <hi>God</hi> delivers his.</p>
+            <list>
+               <item>1. <hi>H<gap reason="illegible: faint" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>e's long ere hee begins;</hi>
+               </item>
+               <item>2. <hi>Hee goes through-ſtitch,</hi> when hee ſets in.</item>
+            </list>
+            <p>For words; I am loth to entertaine time with <hi>Criticiſm's;</hi> wee have a greater work in hand. If wee follow <hi>Chryſoſtom's</hi> ſenſe with the <hi>Vulgars,</hi> and her <hi>Sworn-men,</hi> and read the words <hi>Queſtion-wiſe, Will hee ſuffer long?</hi> we ſhall
+<list>
+                  <item>1. Impute to <hi>S. Luke</hi> worſe language then he ſpeaks, who of the <hi>Evangeliſts</hi> is moſt <hi>Attick:</hi> And</item>
+                  <item>
+                     <note place="margin">So <hi>Homer</hi> uſes <gap reason="foreign">
+                           <desc>〈 in non-Latin alphabet 〉</desc>
+                        </gap> in <hi>Vul<g ref="char:EOLhyphen"/>cans</hi> ſpeech to <hi>I<gap reason="illegible: faint" extent="1+ letters">
+                              <desc>•…</desc>
+                           </gap>o.</hi> Iliad. <hi>
+                           <gap reason="illegible: faint" extent="1+ letters">
+                              <desc>•…</desc>
+                           </gap>
+                        </hi> &amp;c &amp; <hi>alibi paſſim.</hi>
+                     </note> 2. Croſſe the maine ſcope, which drives at perſeverance upon delaies. If wee follow his fol<g ref="char:EOLhyphen"/>lower <hi>Theophylact,</hi> and moderne writers, and ren<g ref="char:EOLhyphen"/>der <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>, by <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>, ſampling it with the <hi>Hebrew,</hi> wee have our warrant. Yet [here's a difficulty. For, How ſorts this <hi>Slowneſſe,</hi> with thao [<hi>Speedily</hi>] following?</item>
+               </list>
+            </p>
+            <p>But this is no hard knot. 1. <hi>God</hi> may <hi>ſeeme to us:</hi> but is not in himſelfe <hi>Slow.</hi> For to be <hi>Slow,</hi> is to bee too late; and <hi>God</hi> is never ſo: 2. Againe, hee beares at firſt, yet ſmites home at laſt.</p>
+            <p>I take no pride in varying from adviſed tranſla<g ref="char:EOLhyphen"/>tions, and therefore pitch there.</p>
+            <p>God gives proofe of his patience, before hee proceeds to execution. He ſuffers long, before the Creature ſuffers. This is generally true. But I
+<pb n="30" facs="tcp:156755:20"/>muſt draw down the point to the preſent inſtance. <hi>He ſuffers long, (With Them.) With Whom?</hi> With <hi>Adverſaries,</hi> as the woman phraſed it; or <hi>With them, whom vengeance abides;</hi> as the <hi>Hebrews</hi> often couch the <hi>Object</hi> in the <hi>Action.</hi> Our <hi>Point</hi> then muſt run thus.</p>
+            <p>
+               <hi>God beares long with adverſaries;</hi> with <hi>worſt</hi> men. He diſpenſeth not his favors equally to all: yet to all ſome. All taſte of his goodneſſe, but with a dif<g ref="char:EOLhyphen"/>ference. Though he beare not <hi>Ever,</hi> yet he beares <hi>Long</hi> with his enemies. His <hi>Everlaſting Name</hi> is <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> oppoſed to <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <note place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> ſay the LXX.</note> 
+               <hi>Prov.</hi> 14.29. that is, He is not <hi>Soone,</hi> but <hi>Slowly</hi> provoked. The Apoſtle ſpeaks it roundly, <hi>Rom. 9. He ſuffers with much Long-ſuffering the veſſels of wrath.</hi>
+            </p>
+            <p>The truth of this we finde in <hi>Perſons, Cities, Kingdomes,</hi> and thoſe none of the beſt. But wee touch onely upon theſe particulars.</p>
+            <list>
+               <item>1. Looke upon the <hi>Perſons</hi> in their diſtance, 1. <hi>The Provokers</hi> are his <hi>Owne Creatures,</hi> who live upon him. 2. <hi>The Provoked,</hi> the <hi>Higheſt Majeſty.</hi> This were enough to tempt created patience, as hee ſaid;<note place="margin">2 Sam. 16.9.</note> 
+                  <hi>Shall this dead dog raile upon my Lord the King!</hi> What! <hi>A Dog</hi> upon <hi>a King!</hi> This re<g ref="char:EOLhyphen"/>quires infinite patience.</item>
+               <item>2. <hi>Looke</hi> upon their <hi>Actions,</hi> in their difference. And there it is hard to ſay whether bee greater, <hi>Patience</hi> or <hi>Provocation.</hi>
+               </item>
+            </list>
+            <list>
+               <item>1. The wicked hate <hi>His,</hi> for <hi>His ſake,</hi> with a <hi>Satanicall</hi> hatred, (as <hi>Davids</hi> word is, <hi>Pſal.</hi> 38.20.) and would deſtroy Soule and Body all at once, as that <hi>Villain</hi> in <hi>Bodin</hi> attempted upon a<g ref="char:EOLhyphen"/>nother.</item>
+               <pb n="31" facs="tcp:156755:20"/>
+               <item> 2. They cannot be ſatisfied with <hi>One Mordecai's</hi> fleſh: They wiſh all but <hi>One head,</hi> that they might diſpatch all at one ſtroke.</item>
+               <item>3. No time is long enough; no help great e<g ref="char:EOLhyphen"/>nough. They call in help; they beg &amp; borrow <hi>Curſes and Blaſpemies,</hi> to their laſt breath,<note place="margin">Mr. Boltons Sermon on 1 Cor. 1.26.</note> as I reade of one.</item>
+               <item>4. They never relent, but write all to their me<g ref="char:EOLhyphen"/>rits, and wiſh they could doe more. Thus they provoke.</item>
+            </list>
+            <p>Now what is <hi>Gods Patience?</hi> Though his ſoul abhor ſin infinitely; Though he cannot go out of hearing, and ſhut his eyes, as we may, but muſt ſee and heare all; Though his name, Law and Chil<g ref="char:EOLhyphen"/>dren be more to him then all the world; Though heaven and earth ſweat under theſe provocations, and Gods owne (ſtruck downe at his foot) cry for help: Yet God <hi>Beares,</hi> and <hi>Beares long;</hi>
+               <note place="margin">Rom 2. there's <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>
+               </note> Nay doth them <hi>Poſitive good;</hi> Treats with them; Fees them to be quiet, and his owne to be patient; and, when he muſt needs ſmite, gives them ſpace, takes time himſelfe, is <hi>Long in bending his bow, and drawing forth his weapons.</hi> And after all this, if then an <hi>Ahab</hi> will ſubmit, he is ready to reprieve. But this is a <hi>Fathomleſſe-depth.</hi> Were I in another place, I ſhould hold it needfull to ſay ſomething, by way of explication. But here it's ſufficient to mind you, That Gods <hi>Patience</hi> is no way <hi>Paſ<g ref="char:EOLhyphen"/>ſive;</hi> Nay his <hi>Longeſt-ſuffering</hi> is his <hi>Greateſt-Acting,</hi> or enjoying of himſelfe, in all <hi>Serenity.</hi> and <hi>Perfection,</hi> and is onely grounded upon his moſt perfect nature.</p>
+            <list>
+               <pb n="32" facs="tcp:156755:21"/>
+               <item>1. God is <hi>Power</hi> it ſelf, and therefore can beare long.</item>
+               <item>2. God is <hi>Wiſdome</hi> it ſelfe; and therefore for<g ref="char:EOLhyphen"/>bearant.</item>
+               <item>3. <hi>Goodneſſe it ſelfe;</hi> and therefore ſo long<g ref="char:EOLhyphen"/>ſuffering.</item>
+            </list>
+            <p>And the longer he ſuffers, the more he exerci<g ref="char:EOLhyphen"/>ſeth and evidenceth theſe his perfections. That is the maine ground of the <hi>Point;</hi> whereto you may adde, if you pleaſe, theſe enſuing Parti<g ref="char:EOLhyphen"/>culars.</p>
+            <p n="1">
+               <milestone type="tcpmilestone" unit="unspecified" n="1"/> 1. The <hi>Wicked,</hi> Gods <hi>adverſaries</hi> are ſome way <hi>his owne;</hi> and that <hi>Owneneſſe</hi> works <hi>Patience.</hi> The Lord is a peece of a Father to them alſo. For hee is <hi>A Common-Father, by Office</hi> to all; <hi>A Speciall-Father, by Adoption</hi> to Saints; <hi>A Singular-Father, by Nature</hi> to Chriſt. <hi>A Prince,</hi> beſides his particular relation to his <hi>Children,</hi> is <hi>Pater-Patriae, Pater-familias,</hi> and is <hi>Good to All;</hi> though with a difference: So here.</p>
+            <p n="2">
+               <milestone type="tcpmilestone" unit="unspecified" n="2"/> 2. Though <hi>Chriſt</hi> hath purchaſed a peculiar people to himſelfe, to the purpoſe of ſalvation: yet others taſt of this his goodneſſe. The world, you know, was loſt in merit, and <hi>ipſo facto</hi> forfei<g ref="char:EOLhyphen"/>ted, with all its comforts, and appurtenances. The Lord <hi>Chriſt</hi> hath reſtored it, and doth keep it ſtan<g ref="char:EOLhyphen"/>ding; and in the <hi>Interim,</hi> the worſt enjoy it in common with the beſt, and ſo far, fare the better for Chriſt.</p>
+            <p n="3">
+               <milestone type="tcpmilestone" unit="unspecified" n="3"/> 3. God in his moſt wiſe diſpenſation, ſees uſe of patience towards ſuch: So, he works out his
+<pb n="33" facs="tcp:156755:21"/>own praiſe, and deſigne upon his Church.</p>
+            <p>In ſhort. At <hi>preſent</hi> there may be ſome uſe of them; and ſo he reprieves them, as we doe ſome notorious <hi>Felon:</hi> and <hi>hereafter</hi> there may be ſome fruit come from them; and the <hi>Ill Mother</hi> is a while forborne for her <hi>Fruit,</hi> and <hi>Venter</hi> ſake. This is all I can ſtay to ſpeak to the point.</p>
+            <p>Now were I my ſelfe, I would commend this to <hi>Two ſorts.</hi>
+            </p>
+            <p n="1">1. <hi>The worſt</hi> muſt take heed of <hi>Two Extremities.</hi> 
+               <milestone type="tcpmilestone" unit="unspecified" n="1"/>
+               <list>
+                  <item>1. <hi>Not to Vy</hi> with <hi>Children,</hi> and beare them<g ref="char:EOLhyphen"/>ſelves too high upon Gods love, becauſe hee beares himſelfe ſo patiently, and graciouſly to<g ref="char:EOLhyphen"/>wards them. No, there is a difference.<note place="margin">Gen. 25 5, 6.</note> 
+                     <hi>Iſaac</hi> is the <hi>Son of the Promiſe,</hi> though all the <hi>Abrahamites</hi> have ſomething.<note place="margin">2 Chron 21.3.</note> Onely <hi>Iehoram</hi> the <hi>firſtborne</hi> muſt have the <hi>Crowne,</hi> and <hi>Kingdome:</hi> Smaller matters muſt content the reſt. All <hi>Ioſephs</hi> brethren taſte of his bounties; but none to <hi>Benjamin.</hi> As in the things there is a wide difference: (not now to be inlarged) ſo ſpecially in the Iſſue, and event. The wickeds happineſſe will take end, his leaſe will run out, <hi>Eccl.</hi> 8.13. That <hi>End</hi> when it comes, comes <hi>Swiftly;</hi> as <hi>Ezekiel</hi> in his 7. chap. tels them upon another occaſion.—<hi>The End</hi> (ſaith he) <hi>is Come, is Come, is Come;</hi> and ſo ſome ten or twelve time minds them of this. And when that <hi>Time is Come,</hi> The Lord ſets on, <hi>How Long,</hi> and <hi>How Of<g ref="char:EOLhyphen"/>ten</hi> he hath forborne.<note place="margin">Pſal. 95.</note>—<hi>Fortie yeares long I have borne with this generation.</hi> And—<hi>Theſe ten times have they provoked me.</hi> Numb. 14.22.</item>
+                  <item>2. Not to charge God to bee an <hi>hard Maſter:</hi>
+                     <pb n="34" facs="tcp:156755:22"/>But to give him the glory, not onely of his <hi>Iu<g ref="char:EOLhyphen"/>ſtice,</hi> but of his <hi>Patience,</hi> and <hi>Goodneſſe:</hi> For even in his Executions he is ſtill beneath their deme<g ref="char:EOLhyphen"/>rit, beyond their deſert; and that one day they will know, though now they will not acknow<g ref="char:EOLhyphen"/>ledge it. But the maine is to the Saint.</item>
+               </list>
+            </p>
+            <p n="2">
+               <milestone type="tcpmilestone" unit="unspecified" n="2"/> 2. <hi>If the worſt</hi> muſt ſay, <hi>God is patient;</hi> muſt not the <hi>Saint?</hi> If <hi>Sodom,</hi> If <hi>Babel,</hi> If <hi>India</hi> muſt ac<g ref="char:EOLhyphen"/>knowledge his Long-ſuffering: muſt not <hi>Eng<g ref="char:EOLhyphen"/>land?</hi> muſt not <hi>This?</hi> muſt not every <hi>Towne</hi> and <hi>Citie?</hi> O ſurvey your lives, compare Gods pati<g ref="char:EOLhyphen"/>ence with your frowardneſſe; Gods forbearance with your ſtubbornneſſe. Call to mind your fol<g ref="char:EOLhyphen"/>lies, paſſions, infirmities, preſumptions. What anſwers you have returned upon reproofe; how many cals you have ſlighted; how many meanes you have ſcorned. In few; how many, how great, how laſting your provocations have beene. And, If <hi>Cain,</hi> and <hi>Iudas</hi> muſt yeeld God patient: Doe you ſay, <hi>Who is a God like unto thee, that pardo<g ref="char:EOLhyphen"/>neth iniquity, and paſſeth by the tranſgreſsion of the remnant of his beritage? He retaineth not his anger for ever, becauſe hee delighteth in mercy, Mica.</hi> 7.18. And, if the devils themſelves thinke it worthy a ſuit, that their torment may bee deferred: muſt not we think it thankworthy, that we are thus long forborne? O, let every Towne yee looke upon, every Church yee come into, every field you walk in, every Creature you ſee living, draw from you thanks.—<hi>Let the houſe of Aaron ſay, His mercy endureth for ever;</hi> Elſe had wee no <hi>Church. —Let the houſe of Iſrael ſay, His mercy endureth for
+<pb n="53" facs="tcp:156755:22"/>ever,</hi> Elſe had we no <hi>State.—let every man brea<g ref="char:EOLhyphen"/>thing ſay, His mercy endureth for ever;</hi> Elſe our Atheiſmes, Oaths, Curſes, Idols, Murders, Whoredomes, and other Abominations had long ſince ſunk us, and ſwallowed us up.</p>
+            <p>But what are <hi>Words,</hi> if but <hi>Words?</hi> Let the Me<g ref="char:EOLhyphen"/>ditation of this point be improved unto <hi>Humiliation; Repentance; Conſolation.</hi>
+            </p>
+            <p n="1">1. For the firſt. Is God ſo forbearant? 1. What are we, that we ſhould be ſo haſty? What? Is he wounded in his <hi>Name,</hi> in his <hi>Law,</hi> and in his <hi>Sons?</hi> And muſt not we be touched in our <hi>Dogge?</hi> Who are we, that we cannot beare (As God, (ſhall I ſay? nay) <hi>With God</hi> himſelfe! Hee muſt ſmite, when we would have him; elſe wee queſtion, ſometimes his <hi>Truth,</hi> moſt times his <hi>Care.</hi>
+            </p>
+            <p>Nay farther. Is God ſo forbearant? What have we done? Or what did wee meane, to pro<g ref="char:EOLhyphen"/>voke ſo <hi>Patient a Father? How great is the provo<g ref="char:EOLhyphen"/>cation of his ſons, and daughters!</hi> It is not, It is not (beleeve it) a <hi>Small</hi> thing that will <hi>Anger this Fa<g ref="char:EOLhyphen"/>ther.</hi> It is not a little Cloud, that will hide this <hi>Sun.</hi> In his anger therefore reade our ſins, and in his expreſſions his wrath. His Face, his Words, his Actions, ſpeak him angry. And <hi>Patience</hi> will not bee angry for <hi>Trifles.</hi> What? <hi>David</hi> hide himſelfe from his <hi>Abſolom?</hi> doth not ſo great a wrath argue greateſt provocation?</p>
+            <p>And is not <hi>Our Father,</hi> think you, <hi>Angrie,</hi> when he ſends a <hi>Spirit of diviſion</hi> amongſt us? when he
+<pb n="36" facs="tcp:156755:23"/>
+               <hi>Daſhes</hi> Child againſt Child? make a <hi>Rod,</hi> of a <hi>Sword?</hi> drawes <hi>Blood,</hi> and bathes his <hi>Sword</hi> there<g ref="char:EOLhyphen"/>in? Turnes his <hi>Children a begging,</hi> and outs them of all? Is not here wrath? And is it not time now,<note place="margin">Num. 12.</note> to fall before him, with <hi>Miriam,</hi> whileſt he thus <hi>ſpits</hi> in our face?<note place="margin">Num. 16.46.</note> To <hi>Run</hi> with <hi>Aaron,</hi> when the fire is begun?<note place="margin">1 Chron. 21.</note> To <hi>cry</hi> with <hi>David,</hi> when the <hi>Sword</hi> is drawne? <hi>O Lord, ſpare Ieruſalem,</hi> ſpare our Cities, our People: And to lament after our <hi>Fa<g ref="char:EOLhyphen"/>ther;</hi> as the Child doth after his loſt <hi>Mother. My Father, my Father is loſt, What ſhall I doe!</hi>
+            </p>
+            <p n="2">2. In the next place, Let this quicken our re<g ref="char:EOLhyphen"/>pentance: Kindneſſe will melt a <hi>Saul.</hi> Should it not a <hi>Son?</hi> The proper iſſue of patience and kindneſſe ſhould be repentance: of <hi>long</hi> patience <hi>ſpeedy repentance.</hi>
+            </p>
+            <p>
+               <hi>You are Noble.</hi> I report my ſelfe to your <hi>Iudge<g ref="char:EOLhyphen"/>ments.</hi> What think you? Are not a thouſand of Oathes, and millions of Lies (to omit other pro<g ref="char:EOLhyphen"/>vocations) enow? Is not 40. yeares provocation? nay 60? nay 80. ſufficient? Hath not God wai<g ref="char:EOLhyphen"/>ted long, and long enough? Is it fit, think you, to make him wait longer? Is there any hope, that ought elſe will work, if <hi>Patience</hi> work not? Or is there any thing left, after <hi>Patience abuſed?</hi> 
+               <q>Will not <hi>Nineveh</hi> riſe up in Iudgement againſt us, and ſay, <hi>We had but</hi> 40. <hi>dayes patience afforded us:</hi> And ſhall theſe abuſe <hi>Twice</hi> 40. <hi>yeares?</hi> Will not the damned in hell ariſe and ſay, We were born withall, ſome but 30. ſome but 20. yeares, and theſe have abuſed a far longer patience? Nay, will not the Devils themſelves come in and ſay,</q>
+               <pb n="37" facs="tcp:156755:23"/>We had not the patience of <hi>one houre</hi> afforded us; and ſhall theſe <hi>Ever</hi> bee ſpared? I beſeech you by <hi>All the mercies of God;</hi> by <hi>An age of Patience;</hi> by <hi>A world of bleſsings;</hi> by that your <hi>Candor,</hi> and <hi>In<g ref="char:EOLhyphen"/>genuitie;</hi> and by all the <hi>Endearements,</hi> that ever paſt betwixt <hi>Chriſt,</hi> and your ſoules; <hi>pitie</hi> your ſelves; <hi>pitie</hi> your Countrey; <hi>pitie</hi> your poſterity; and bee content to bee <hi>happy.</hi> Fall downe in pri<g ref="char:EOLhyphen"/>vate before the <hi>Lord,</hi> and ſay; <hi>O Lord,</hi> I am aſha<g ref="char:EOLhyphen"/>med of my <hi>Vnmannerlineſſe. Thou</hi> haſt <hi>long</hi> knock<g ref="char:EOLhyphen"/>ed, and I have made thee ſtand out of doores. I can ſtand out no longer. It is infinit patience, if as yet I may live. O Turne mee, and I will now turne. I Come, I Come with all the ſtrength I have. O draw mee! Melt mee! receive mee!</p>
+            <p n="3">3. Laſtly, Let this give us an hopefull expe<g ref="char:EOLhyphen"/>ctation <milestone type="tcpmilestone" unit="unspecified" n="3"/> of further grace. True it is, Our ſinnes are hideous. God was never more put to it by a Nation. Notwithſtanding, could wee put our ſelves into a <hi>Poſture</hi> for mercy, <hi>There were yet hope in Iſrael.</hi> For I demand. <hi>Is God patient toward Enemies? toward Rebels?</hi> when there's <hi>no faſt<g ref="char:EOLhyphen"/>ing, no praying, no reforming</hi> thought upon? And will hee <hi>Not meet us in the way of his judge<g ref="char:EOLhyphen"/>ments?</hi>
+               <note place="margin">Vid. Mic. 6.3.</note> What?<note place="margin">Hoſ. 6.14. &amp; 11.8.</note> is hee ſo long-ſuffering toward <hi>ſinfull Ephraim?</hi> ſo loath to thinke of a divorce? <hi>How ſhall I give thee up Ephraim! How ſhall I entreat thee!</hi> And ſo ready to receive <hi>Ephraim,</hi> upon ſub<g ref="char:EOLhyphen"/>miſſion? <hi>Is Ephraim my deare ſonne? &amp;c.</hi>
+               <note place="margin">Ier. 31.20.</note> And will hee not bee gracious to this <hi>Our Ephraim,</hi> in caſe wee come in? What! will hee plead for <hi>Iſ<g ref="char:EOLhyphen"/>rael,</hi> for <hi>Nineveh</hi> againſt his <hi>Prophets?</hi> and of a
+<pb n="38" facs="tcp:156755:24"/>
+               <hi>Iudge</hi> become an <hi>Advocate?</hi> As wee ſee in the caſe of <hi>Elijah,</hi> and <hi>Ionah. Why Elijath</hi> (ſaith hee) Thou art not alone: There bee <hi>Thouſands</hi> with thee, and for mee: <hi>Why Ionah,</hi> doſt thou well to be ſo haſty? would'ſt thou have mee ſlay the <hi>Child</hi> upon the <hi>Mother?</hi> ſo young, ſo many? Will <hi>God,</hi> I ſay, thus plead for a people, when his <hi>Prophets</hi> cry a<g ref="char:EOLhyphen"/>gainſt them? And will hee not bee intreated for us, when of all <hi>Ranks</hi> ſome, and the <hi>Prophets</hi> chief<g ref="char:EOLhyphen"/>ly importune him? <hi>Beare up,</hi> Brethren, and know with whom yee have to doe. You deale with a <hi>Father, The Father,</hi> and <hi>The God</hi> of <hi>Patience.</hi> 'Tis true.<note place="margin">Eſa. 54.7.</note> Hee can bee angry. That's his Iuſtice: That's his Goodneſſe to you: But hee cannot bee long angry with his owne. 'Tis but for a <hi>Moment.</hi> It redounds not to the <hi>Perſon.</hi> 'Tis not <hi>Penall,</hi> but <hi>Medicinall. Sinke</hi> not under it. Onely prize pa<g ref="char:EOLhyphen"/>tience, and abuſe it not. Hold this <hi>Patient God</hi> a<g ref="char:EOLhyphen"/>mongſt you, as <hi>Moſes</hi> did. Chaine him up with your prayers and teares,<note place="margin">Ex. 33.16. &amp; 34.9.</note> and ſay, <hi>If wee have found grace in thy ſight, Goe not from us: Abide with us.</hi> And then know, There is patience enough in <hi>God</hi> for a <hi>Thouſand Englands.</hi> And, if wee doe miſca<g ref="char:EOLhyphen"/>ry, it is not from want of <hi>Goodneſſe</hi> in <hi>God,</hi> but from want of <hi>Grace</hi> in us, who have a price in our hands and doe not know it. But I muſt away. The laſt thing followes.</p>
+            <p>
+               <hi>God is ſwift in his helpe as well as ſure.</hi> When his bee once ready for help, help is at hand. So <hi>Na<g ref="char:EOLhyphen"/>hum</hi> pleads, <hi>cap.</hi> 1.2.3. <hi>God ſuffers;</hi> and <hi>God is ſwift.</hi> I am in haſt, and cannot open the words. S. <hi>Peter</hi> ſaith the ſame, 2 <hi>Pet.</hi> 3.9. where two things are ſpoken.</p>
+            <list>
+               <pb n="39" facs="tcp:156755:24"/>
+               <item>1. <hi>What God is</hi> in our conceit; <hi>Slack.</hi>
+               </item>
+               <item>2. <hi>What God</hi> is indeed; <hi>Seaſonable,</hi> when wee are fitted.</item>
+            </list>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Obj. </seg>
+               </label> But is not <hi>God ſlow?</hi>
+            </p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">An. </seg>
+               </label> It is not <hi>ſlowneſſe,</hi> or <hi>ſluckneſſe:</hi> For that is to <hi>Omit an opportunity.</hi> Hee is ever <hi>Opportune,</hi> and frames his pace, as there is cauſe. When wee bee ripe, hee is ready, hee is ſpeedy.</p>
+            <p>
+               <hi>Speedy,</hi> 1. In oppoſition to the Iudge here; who is too late; and to mens opinions, who being <hi>too ſhort,</hi> thinke <hi>God too long.</hi>
+            </p>
+            <p>
+               <hi>Speedy,</hi> 2. In reference to our fitneſſe, and fit<g ref="char:EOLhyphen"/>neſſe of time. Hee is neither too early, nor too late; but obſerves the very <hi>height, ſtrength, joint, article</hi> of time. Wee know not how to expreſſe <hi>Moſes</hi> his <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> of time.<note place="margin">Ex. 12.41. &amp; alibi in Gen.</note> But at preſent wee are up<g ref="char:EOLhyphen"/>on his <hi>ſpeedy</hi> help. For this; doe but obſerve how hee repreſents himſelfe.</p>
+            <list>
+               <item>1. In his <hi>gestures,</hi> and <hi>poſtures.</hi> Hee's ſaid, <milestone type="tcpmilestone" unit="unspecified" n="1"/> when hee is upon his peoples deliverance, to <hi>ſtand up</hi> or <hi>ariſe,</hi> to <hi>runne,,</hi>
+                  <note place="margin">Vid. Hab. 3. &amp; paſſim apud Prophetas.</note> to <hi>fly.</hi>
+               </item>
+               <item>2. In his <hi>Expreſsions. Hee that Comes, will Come, and will make haſte, without tarriance.<note place="margin">In the Canti<g ref="char:EOLhyphen"/>cles, he comes leaping, &amp;c.</note> Hebr.</hi> 10.37.</item>
+               <item>3. In his <hi>Performances.</hi> Ever at,<note place="margin">Eſ. 31.5. flying, &amp;c.</note> or before his day, never one houre too late.</item>
+            </list>
+            <p>The Reaſon whereof is manifold.</p>
+            <p n="1">1. If we reſpect <hi>Gods</hi> ſelfe. 1. He cannot miſtake <milestone type="tcpmilestone" unit="unspecified" n="1"/> time: For hee is <hi>Wiſdome</hi> it ſelfe, and the juſt meaſure of time. That is <hi>Eſay's</hi> reaſon,<note place="margin">Eſa. 30.</note> 
+               <hi>Hee is a God of Iudgement.</hi> 2. Hee cannot faile of his aime, and end. For hee is <hi>power</hi> it ſelfe. There is nothing
+<pb n="40" facs="tcp:156755:25"/>in his way, <hi>Hee is in heaven</hi> (ſaith <hi>David) and doth whatſoever hee will.</hi> Others muſt worke what, and when they can: <hi>God</hi> works when it pleaſeth him, and can doe a great deale in a little ſpace. Hee can cauſe to <hi>Conceive,</hi> and to <hi>bring forth</hi> the ſame day, <hi>Eſay</hi> 66.8.3. Hee is <hi>goodneſſe it ſelfe. Good<g ref="char:EOLhyphen"/>neſſe</hi> is his nature: and nature delights in its owne operations: it is it's life. The Sunne runnes ra<g ref="char:EOLhyphen"/>ther then ſtand ſtill; delights more in ſhining, then in being overſhadowed. 4. Hee is <hi>Truth,</hi> and it is his Word, <hi>Hee will bee found in Due time;</hi> and his time is the <hi>Due time,</hi> with reſpect to our <hi>Fit<g ref="char:EOLhyphen"/>neſſe.</hi> 
+               <milestone type="tcpmilestone" unit="unspecified" n="2"/> Read <hi>Pſal.</hi> 46.1.5.</p>
+            <p n="2">2. Adde in the ſecond place, <hi>Gods Relation.</hi> Hee is a Father. Relations, you know, are very active. <hi>Saul</hi> would riſe early to help <hi>his ſubjects.</hi> 1 <hi>Sam.</hi> 11. Fathers be rather <hi>too haſtie,</hi> then <hi>too ſlow.</hi> They are ready before their Sonnes. The child indeed thinks himſelfe fit for <hi>Horſmanſhip,</hi> for the <hi>Vn verſitie, Marriage,</hi> or the like: and conceives his Father <hi>too ſlow.</hi> But the truth is, The Father ſtayes upon his Child, and is ready before hee is ready; Eſpecially in caſes of danger. A Father runnes without legs, when the Child is hazar<g ref="char:EOLhyphen"/>ded: Nor is there any Beaſt, which will not fly upon death, when his young is indangered. Now the <hi>Lord</hi> hath not put this inclination into Crea<g ref="char:EOLhyphen"/>tures, and deprived himſelfe thereof, the while. <hi>His</hi> bee <hi>His,</hi> and Hee will bee <hi>Theirs,</hi> if it bee not long of them. Let the <hi>prodigall</hi> creep, and the <hi>Father</hi> will run. <hi>Luke</hi> 15.</p>
+            <p n="3">
+               <milestone type="tcpmilestone" unit="unspecified" n="3"/> 3. His Children will mind him of the time
+<pb n="41" facs="tcp:156755:25"/>how it paſſes. Their Cry is ſtill, <hi>How long! Make haſte.</hi> Their <hi>Remembrancers</hi> joyne with them. <hi>Eſay</hi> 62. and Chriſt with them. <hi>Zach.</hi> 1. <hi>How long, O Lord of Hoſtes, wilt thou not have mercy up<g ref="char:EOLhyphen"/>on Ieruſalem? &amp;c</hi> 12. <hi>Theſe, All</hi> theſe ſue <hi>God</hi> up<g ref="char:EOLhyphen"/>on his <hi>Band,</hi> and preſſe the fitneſſe of the time. <hi>Dan.</hi> 9.2. <hi>Pſal.</hi> 102.13. To make end.</p>
+            <p>If meere ſelfe-love will force this <hi>Iudge</hi> out of his pace: will not love of Iuſtice, Mercy, Truth? Love of Chriſtians, of <hi>Chriſt,</hi> of <hi>Gods<g ref="char:EOLhyphen"/>ſelfe</hi> quicken him? Doth not he know how ſoone their ſpirits will faint? How ſoone they will ſtep forth of the way? and after halting, turne aſide, upon too long delayes?</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Obj. </seg>
+               </label> Yea, but wee ſee <hi>Gods</hi> people long defer'd.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">An. </seg>
+               </label> It ſeemes long, becauſe wee are ſhort. A ſhort walke is a long <hi>journey</hi> to feeble knees. Times are above our reach. The knots, and periods of them are in the hands of the <hi>God of Iudgement.</hi> When help is ſeaſonable, his <hi>fingers itch,</hi> as the Mothers breaſt akes, when it is time the child had ſuck.</p>
+            <p>There is no more now to bee done, <label type="milestone">
+                  <seg type="milestoneunit">Ʋſes. </seg>
+               </label> but to make this point uſefull to us, and then I have done.</p>
+            <p n="1">1. <hi>Bluſh</hi> we at our boldneſſe, who take upon us</p>
+            <list>
+               <item>1. <hi>To Controll.</hi>
+               </item>
+               <item>2. <hi>To Confine</hi> the <hi>All-wiſe God.</hi>
+               </item>
+            </list>
+            <p n="1">1. For the firſt. Who are we, that wee ſhould <milestone type="tcpmilestone" unit="unspecified" n="1"/> ſit upon our <hi>Maker?</hi> and ſay, in effect, <hi>Here God is out. Here hee miſtakes</hi> his time? What is this but to <hi>Charge God fooliſhly,</hi> as <hi>Iob</hi> did not. What is this, but to <hi>Set the Sunne by our Dyall?</hi>
+               <note place="margin">Iob. 2.4 &amp; 7.6. &amp; 11.39.40.</note> This <hi>Caeſar</hi> termes <hi>ſancineſſe</hi> in his Souldiers. This our <hi>Saviour</hi>
+               <pb n="42" facs="tcp:156755:26"/>diſliked in his deareſt friends. This the Phyſici<g ref="char:EOLhyphen"/>an blames in his Patient: Parents in their Chil<g ref="char:EOLhyphen"/>dren: you in <hi>Vs:</hi> if ſo bee that wee, (at ſo great a diſtance, who know ſo little of your obſtructions) ſhall charge you, here with <hi>too much haſte,</hi> there with <hi>too much ſlowneſſe.</hi>
+            </p>
+            <p n="2">
+               <milestone type="tcpmilestone" unit="unspecified" n="2"/> 2. <hi>As great a ſaucineſſe</hi> it is <hi>To Confine the Al<g ref="char:EOLhyphen"/>mighty.</hi> Now he muſt help, or never. This way, or no way. By this <hi>Parliament,</hi> or by <hi>No Parlia<g ref="char:EOLhyphen"/>ment.</hi> Stop, for ſhame. And, if you will wiſely enquire into a reaſon of <hi>Gods</hi> proceedings, reflect upon your ſelves, and charge the ſlowneſſe upon your owne ſoules. It is a truth, <hi>God will bee ever himſelfe:</hi> and hath <hi>many ends,</hi> in <hi>One Worke.</hi> But, in paſſages twixt him and us; the fault is ours, not his, if wee bee not <hi>ſeaſonably holpen.</hi>
+            </p>
+            <p>Thence that in <hi>Iſay</hi> 30.18. <hi>God waits, that hee may have mercy. Gods Heart, Gods hands</hi> are full of mercy: hee waits, being <hi>A God of Iudgement.</hi> (i) one, that diſpences mercy in Iudgement.</p>
+            <p>Thence his <hi>plea. Iſay</hi> 58.1. &amp;c. The people wondred they heard not from <hi>God. Why</hi> (ſay they) <hi>have wee faſted? &amp;c.</hi> And <hi>God</hi> wonders, that hee heares not from them. And more fully (<hi>Iſa.</hi> 59.1.) hee reſolves the Caſe. <hi>Gods hand is not ſhortned: His eare is not deafned.</hi> Hee is able, hee is willing to doe them help. Where is the hin<g ref="char:EOLhyphen"/>drance then? <hi>Hee</hi> tells them, <hi>Your ſinnes keepe good things from you.</hi>
+            </p>
+            <p>Thence alſo it is, That <hi>God</hi> ſo expoſtulates with <hi>Ioſhua. cap.</hi> 7.10. <hi>Vp,</hi> (ſaith hee) <hi>Why lieſt thou thus, and cryect to mee?</hi> As if it were long of
+<pb n="43" facs="tcp:156755:26"/>mee, that the warre ſucceeds not. Goe, deale with thy people. <hi>There is an accurſed thing in Iſrael.</hi>
+            </p>
+            <p>Thus <hi>God</hi> points us to our dutie, and wee muſt Act accordingly. <hi>Iudges</hi> 20. when the warres of the Church miſcaried, the Church inquires of <hi>God,</hi> with Prayers, and Teares, and Faſtings. In the like caſe we muſt doe the ſame thing. We are here upon <hi>Gods</hi> worke. <hi>Things ſticke.</hi> Comfort comes on ſlowly. Let us <hi>Caſt Lots</hi> with <hi>Ioſhua,</hi> and find out <hi>The Achan.</hi> Let every man lay his hand upon his heart, and ſay, Can <hi>God</hi> certainly helpe? Will hee ſpeedily heare? What is then the reaſon of this delay?</p>
+            <p>This is a fit queſtion for <hi>publike,</hi> for <hi>private,</hi> for <hi>All Perſons.</hi>
+            </p>
+            <p>In <hi>Publike.</hi> Your affections (<hi>Honoured and Be<g ref="char:EOLhyphen"/>loved</hi>) we queſtion not. Sure your endeavours are good, your labours great. Yet muſt wee ſay with the <hi>Prophet, The harveſt is paſt, Summer is ended, and wee are not ſaved. Ier.</hi> 8.20. Where is the <hi>Let? Let's</hi> put it to the <hi>Lot.</hi>
+            </p>
+            <p n="1">1. <hi>Lot upon your ſelves,</hi> &amp; let each <hi>Parliament man</hi> 
+               <milestone type="tcpmilestone" unit="unspecified" n="1"/> ſay. <q>Am I ready? Am I fit for mercy? for honor? I pretend to humiliation. I repreſent ſuch a peo<g ref="char:EOLhyphen"/>ple, ſuch a place (in their ſins) this day. Doe I humble my ſelfe? Doe I gage my heart, pray, weep, mourne alone? I pretend to Reforma<g ref="char:EOLhyphen"/>tion. Am I my ſelfe reformed? Doe not I, who ſay others muſt not ſweare, ſweare my ſelfe? Doe not I give <hi>Libertie</hi> to my ſelfe, where I make <hi>Lawes</hi> for other? If ſo, <hi>God</hi> will ne<g ref="char:EOLhyphen"/>ver accept of a <hi>good motion</hi> from a <hi>bad mouth:</hi>
+                  <pb n="44" facs="tcp:156755:27"/>as that State in Story would not.</q>
+            </p>
+            <p n="2">2. <hi>Lot upon your families.</hi> I come hither to re<g ref="char:EOLhyphen"/>forme others: But what are my <hi>Owne Children?</hi> my <hi>Owne Servants?</hi> What ſhould <hi>Philip</hi> doe a<g ref="char:EOLhyphen"/>broad, till he hath compoſed diſorders at home?</p>
+            <p n="3">3. <hi>Lot upon your Companie, and Aſſociates.</hi> Say, Is there never an <hi>Eſau</hi> amongſt us? Never an <hi>A<g ref="char:EOLhyphen"/>chan</hi> in our Tent? Never a <hi>Ionah</hi> in our Ship; who troubles all?</p>
+            <p n="4">4. <hi>Lot upon your Courſes.</hi> Aske. Whoſe work am I upon? <hi>Gods?</hi> or my <hi>Owne?</hi> Aske farther. (If the worke bee <hi>Gods,</hi> and the <hi>Publike:</hi>) In what <hi>Or<g ref="char:EOLhyphen"/>der</hi> doe I proceed? <hi>Vzzah</hi> may diſturbe the whole buſineſſe, for want of <hi>Order.</hi> Aske farther. In what <hi>Manner</hi> doe I goe on? If I preſume upon the goodneſſe of the Cauſe, or greatneſſe of my ſtrength; I may bee croſt, as <hi>Iſrael</hi> was, in that 20. of <hi>Iudges.</hi>
+            </p>
+            <p>You are now before the <hi>Lord. Weepe</hi> with <hi>Iſrael</hi> upon theſe delayes, and ſtrike the right <hi>Veine.</hi> Say. The <hi>Lord</hi> is not ſlow to help: but wee are ſlow to ſearch, ſlow to reforme, ſlow to put our ſelves in a hopefull way of mercy.</p>
+            <p>This is a fit Queſtion for us alſo in <hi>Private.</hi> We (my Brethren) runne out upon <hi>God. He forgets. He will not bee entreated.</hi> Wee fly upon men. They make no <hi>Haſte.</hi> They <hi>Spinne</hi> out <hi>Time,</hi> with long orations. Were <hi>Wee</hi> in place, <hi>Ireland</hi> ſhould not bee thus deſerted; <hi>Execution</hi> thus futur'd. But who is in fault? <hi>What diſorder! What diſorder!</hi> ſaith <hi>Nabuchadnezzar,</hi> when the <hi>Diſorder</hi> was from him: So wee. <hi>What delayes! What delayes! No help
+<pb n="45" facs="tcp:156755:27"/>Comes!</hi> O, but what ſaith <hi>God? Vp Ioſhua. Iſrael hath ſinned. There is an Accurſed thing among you.</hi> There is curſed Pride, Unbeliefe, Covetouſneſſe, Coldneſſe, Neutrality, in the Camp: What can be done, till this be removed? There are <hi>Vnbleſt Diviſions,</hi> prepoſterous courſes <hi>Wee Rangle</hi> our owne worke, and are much wanting to the publike, in our prayers, and amendments. And this is that, that ſcoat's the buſineſſe in publike. Nay, ſhall I tell you? There is that, that hinders all in publike and in private: and in ſhort it is this. <hi>Wee</hi> bee not to this day <hi>Humbled</hi> for <hi>Our-Own,</hi> and <hi>Our-Other-mens</hi> ſinnes; wee bee not <hi>broken;</hi> we be not <hi>ripe</hi> for mercy. And can wee thinke that <hi>God</hi> will lay <hi>Cordials</hi> upon <hi>Full,</hi> and <hi>Foule</hi> ſtomachs? That hee will skarfe our bones, before they bee ſet? And lappe up our ſores, before they bee ſearcht? O it is in vaine, (as I hope <hi>my Brother</hi> will anon tell you, now my ſtrength is ſpent.) It is in vaine, I ſay, for us to dreame of Comfort, till wee are better emptied and broken. Let us, I beſeech you, when wee have done in <hi>Publike,</hi> goe to it in <hi>Private,</hi> and labour to. ſee <hi>The Plague in our owne heart.</hi> Wee ſpeake much of <hi>A malignant Party.</hi> But ſhall I tell you? <hi>Our ſinnes</hi> bee the <hi>Ma<g ref="char:EOLhyphen"/>lignant Party: Yours,</hi> and <hi>Mine,</hi> and thoſe whom wee repreſent this day. Theſe tye the hands of <hi>God,</hi> and man. Theſe ſtop the eares of <hi>God,</hi> and the <hi>King</hi> againſt us. <hi>Cloare</hi> the <hi>Lord,</hi> and <hi>ſhame</hi> your ſelves, ſaying, I have miſtaken my ſelfe all this while. I have accuſed <hi>God:</hi> I have accuſed men. I now accuſe my ſelfe: my backwardneſſe
+<pb n="46" facs="tcp:156755:28"/>to turne to God is it that foreſlows my comfort. This done,</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="3"/> Be we next entreated to <hi>Coaſt</hi> upon a <hi>Cure. You are</hi> tyred with <hi>Working, We</hi> with <hi>Waiting.</hi> Come we briefly to the Point. <hi>Eſay</hi> 21.12. <hi>If you will en<g ref="char:EOLhyphen"/>quire, enquire ye; Returne, Come.</hi> The Prophet ſpeaks as if he were in haſte: and two things are preſently expected.</p>
+            <p n="1">1. <hi>We muſt be humbled.</hi> That's <hi>once.</hi> Pride ſtands in Gods way. And, if we will make <hi>Davids</hi> pray<g ref="char:EOLhyphen"/>er, we muſt make his plea. <hi>We are poore and needy: make no tarriance.</hi> Pſal. 40. <hi>ult.</hi> And this work of <hi>ſelf-humbling</hi> is a greater work, then I can quickly deliver. But I preſume you have beene already preſſed, or will be anon, to this work.</p>
+            <p n="2">2. We muſt be <hi>Reformed.</hi> Sinne hangs in our <milestone type="tcpmilestone" unit="unspecified" n="1"/> light. That puts back things, that are comming on. Let <hi>Aaron,</hi> and <hi>Moſes</hi> be never ſo willing. Let <hi>Iſrael</hi> be never ſo neare the <hi>Promiſed land:</hi> Sinne (comming betweene) will turne them round, and <milestone type="tcpmilestone" unit="unspecified" n="2"/> put them back. That hinders good from comming on. Let <hi>Iehoſhaphat</hi> be never ſo forward in a <hi>Re<g ref="char:EOLhyphen"/>formation: The High-places</hi> will not downe, if the <hi>Peoples hearts be not prepared, 2 Chron.</hi> 20.33. I have <hi>Cut you out your Work.</hi> Now upon it.</p>
+            <p n="1">
+               <note place="margin">Pſal 25.</note> 1. <hi>Look Backward,</hi> and ſay with <hi>David, O Lord pardon my ſin: it is very great.</hi> Pardon my houſe, <hi>It is I and my houſe, that have ſinned.</hi> Pardon my people, the Towne and Countie, from whom I come,<note place="margin">As <hi>Luke</hi> 4.23 to cure his Country is to cure himſelf.</note> for whom I appeare this day, and which is my <hi>Second-ſelf.</hi> Weepe over them as <hi>David</hi> over <hi>Ieruſalem.</hi> Yea over the <hi>many many</hi> ſis, that
+<pb n="47" facs="tcp:156755:28"/>ſwarm in this Land; and there ſtand betwixt wrath and the people: and then</p>
+            <p n="2">2. <hi>Look forward,</hi> with reſpect to all your rela<g ref="char:EOLhyphen"/>tions. As <hi>Men,</hi> Reſolve with <hi>Naaman; I will wor<g ref="char:EOLhyphen"/>ſhip none but the God of Iſrael.</hi> As <hi>Maſters,</hi> with <hi>Io<g ref="char:EOLhyphen"/>ſhua; I, and my houſe will ſerve the Lord.</hi> As <hi>Publike Perſons,</hi> with <hi>David; Betimes I will cut off the evill doers.</hi> At leaſt plead with <hi>Ioſhua</hi> 22.20. <hi>Did not Achan thus, and God was angry with all Iſrael?</hi> For the Lords ſake, Forme your ſelves into a happy body and order; and having ſo done, Doe but what you can to put us all into a <hi>Poſture</hi> of mercy and ſafety. Let me tell you, that the <hi>Publike pulſe beats very ill.</hi> Though many particulars give much encouragement: yet the generality is bad enough. I will not meddle with any thing this day, but what ſhall make for the worke of the day. I leave <hi>your</hi> buſineſſes to another day and place. Give me leave to ſay thus much;</p>
+            <p n="1">
+               <note place="margin">Credenda.</note> 1. In point of <hi>Religion.</hi> If wee ſpeak of faith: How many be there, who have (as that <hi>Father</hi> ſaid) <hi>Fidem menſtruam?</hi> I may adde,<note place="margin">Hilary.</note> 
+               <hi>Neutram, Nullam?</hi> 2. If we ſpeak of particulars:<note place="margin">Oculis in utram <gap reason="illegible: faint" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>artem ſluat j dicarinon poteſt, <hi>probably</hi> Sone. Caeſ. de Bello Gall. l. 1.</note> Moſt men move like the river <hi>Arar:</hi> backward or forward, who can tell?</p>
+            <p n="3">3. In point of ſubjection, in this <hi>Iubile,</hi> &amp; <hi>Interval,</hi> (as the Vulgar reckon it) no Magiſtrate, no Mini<g ref="char:EOLhyphen"/>ſter, no Officer, no Age is reſpected. It is with us in the Country, as it was in his Army.<note place="margin">Alcibiades.</note> 
+               <hi>All are Lea<g ref="char:EOLhyphen"/>ders, none Souldiers. All Teachers, none Scholars.</hi>
+            </p>
+            <p n="4">4. And for Laws. Whilſt you make <hi>New,</hi> wee break the <hi>Old:</hi> and whilſt you are in the <hi>Mount,</hi>
+               <pb n="48" facs="tcp:156755:29"/>we are <hi>Dancing about a May-Pole,</hi> or <hi>Calfe.</hi> I may not dwell longer.</p>
+            <p>Give mee leave to deliver my owne and the Common ſuit of the honeſt minded, to you: and I will deliver it to you in his words, Marke 9.22. <hi>Maſter, if thou canſt doe any thing</hi> (ſaith hee) <hi>have compaſsion on us, and help us.</hi>
+            </p>
+            <p>
+               <hi>My Lord, and Maſters,</hi> If you can do any thing, <hi>Help</hi> us with your power (we will <hi>Help</hi> you with our prayers.) <hi>Help</hi> us with your counſell. <hi>Help</hi> us what you can (and what you <hi>can by Law,</hi> that you <hi>Can.</hi>) <hi>Help</hi> us to <hi>honeſt Miniſters: Help</hi> them to <hi>Bread,</hi> and <hi>Books</hi> too. <hi>Help</hi> them againſt the <hi>Migh<g ref="char:EOLhyphen"/>ty,</hi> that they be not forced to <hi>Feaſt</hi> at that <hi>Dread<g ref="char:EOLhyphen"/>full-table,,</hi>
+               <note place="margin">Chryſ. <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> &amp;c. hinc &amp; <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> apud Veteres.</note> as it was once called, they know not whom themſelves. O! If wee could be once for<g ref="char:EOLhyphen"/>med into a good people by a happy concurrence of <hi>Our Gracious Soveraigne,</hi> and both your <hi>Houſes,</hi> we could not be long in duſt and aſhes. <hi>The Lord would ſoone</hi> (as hee ſaith) <hi>ſubdue our enemies under us,<note place="margin">Pſ. 81.14. Mal. 42.</note> and come flying with healing under his wings.</hi> Onely, if we look for ſpeedy help, we muſt ſpeed our <hi>Bepentance,</hi> and <hi>Reformation;</hi> and ſo meet him, who hath promiſed to meet us. Now let the Pa<g ref="char:EOLhyphen"/>tience of God move you, the diſtreſſes of our <hi>Brethren</hi> (who have nothing left, <hi>Prater agri ſo<g ref="char:EOLhyphen"/>lum;</hi> if ſo much) move you. Let the ſad diſtracti<g ref="char:EOLhyphen"/>ons and Iealouſies at home move you. And, ſith God is ready, why ſhould wee deferre? Yet wee live: Yet hee offers himſelfe as a <hi>Father</hi> to us. Here he is <hi>this day:</hi> O let us not loſe <hi>this day:</hi> but <hi>to day,</hi> whilſt it is <hi>to day,</hi> before the other halfe
+<pb n="49" facs="tcp:156755:29"/>of it be ſpent, Come in, accept of mercy. And, for your encouragement, let mee conclude with a word of <hi>Comfort.</hi>
+            </p>
+            <p>
+               <hi>What? Doth God wait,</hi> to doe us a kindneſſe. <milestone type="tcpmilestone" unit="unspecified" n="3"/> Meanes he good to us at laſt? though (for ends) he forbeares a while? Bee not diſcouraged upon theſe delaies (If they be delaies.) Say with the Church, <hi>Micah 7. I will beare the wrath of the Lord, I will wait, &amp;c.</hi>
+            </p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Obj. </seg>
+               </label> O, But what hope's left?</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">An. </seg>
+               </label> There is hope. There is hope. Were there not: yet order it, that there may be hope, <hi>Lam.</hi> 3. And then <hi>Hearken what God will ſpeak:</hi>
+               <note place="margin">Pſal 85.8.</note> for his heart and mouth <hi>will ſpeak peace</hi> to his <hi>Broken people.</hi> Provi<g ref="char:EOLhyphen"/>ded ever that you leave him to his owne both <hi>Times,</hi> and <hi>Meanes.</hi>
+            </p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Obj. </seg>
+               </label> O, But is not the time paſt?</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">An. </seg>
+               </label> Why then hath he called us hither? Put it in<g ref="char:EOLhyphen"/>to the hearts of his Majeſty, and this <hi>Repreſenta<g ref="char:EOLhyphen"/>tive-Kingdome,</hi> to appoint this meeting? Would <hi>he have accepted an offering at our hands,</hi> and ſent us a word of encouragement, if he had purpoſed our deſtruction?</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Obj. </seg>
+               </label> O, But (for the meanes;) Things are worſe and worſe.</p>
+            <l>
+               <label type="milestone">
+                  <seg type="milestoneunit">An. </seg>
+               </label> No matter, if we be better and better.</l>
+            <l>
+               <label type="milestone">
+                  <seg type="milestoneunit">Obj. </seg>
+               </label> O, But we are very weak! low! poore!</l>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">An. </seg>
+               </label> I wiſh we were worſe, in our owne ſenſe; wee are, I feare, <hi>too good, too ſtrong, too many.</hi> God is ſometimes troubled with <hi>too much help,</hi> but never with <hi>too little.</hi> We are ſometimes <hi>too ſoone,</hi> but he is never <hi>too late.</hi>
+            </p>
+            <pb n="50" facs="tcp:156755:30"/>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Ob. </seg>
+               </label> O, but we are put off ſtill, from day to day.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">An. </seg>
+               </label> You are deceived. Wee are not put off: wee put off God. It ſticks there. Nay, God is already Come; we are holpen, and do live; and ſhould live more, if we could live apace to him; and live his life, the life of faith. Now is <hi>Faiths turne and time.</hi> Now let <hi>The Iuſt live by his faith.</hi> Now with <hi>Daniel,</hi> let us <hi>Caſt up times,</hi> and meet the Sun<g ref="char:EOLhyphen"/>riſing; at leaſt before the day ſhut in. Grow to his earneſtneſſe: <hi>O Lord heare; O Lord forgive; O Lord deferre not.</hi> And then expect ſome flying meſſenger, or other, with a meſſage of comfort. Onely remember how it ſtands betwixt mother and child. Whiles the child doth but whimper in the cradle, the mother ſtirs not: But, when he takes up a note, and cryes every whit of him; hands, feet, face, all cry: then the mother flings by all; then ſhe flies and outruns her ſelf; <hi>I come, I come, I come, my child.</hi> I can ſay no more. My drift in all is, To beat you off (not from the <hi>Vſe</hi> of Gods meanes, but) from <hi>Truſting</hi> in them. We have too long <hi>Idolized Parliaments, Creatures, and created abilities:</hi> And the Lord hath purpoſely blockt us up, becauſe our eyes ſhould be onely to him. And in him <hi>Alone</hi> you have encouragement <hi>enough.</hi> He hath holpen already: He waits ſtill: He is more then a <hi>Iudge;</hi> He is a <hi>Father:</hi> Hee <hi>can help,</hi> Hee <hi>will help.</hi> His word is for us, precept, promiſe, parable: His ſervants are for us: His <hi>Son</hi> is for us, He is <hi>One-of-us,</hi> which is beyond all the encouragements yet mentioned: He is termed, in the words following, <hi>The Son of man, a man of
+<pb n="51" facs="tcp:156755:30"/>
+                  <note place="margin">Cum Patre dator, inter nos petitor. <hi>Aug.</hi>
+                  </note> Prayes, a man of Grace, the high Favourite, a man</hi> amids us, who <hi>Gives</hi> with the <hi>Father,</hi> who <hi>Prayes</hi> with the <hi>Suiter.</hi> And ſhall we yet faint! what I cannot now doe in publike, doe ye ſupply in pri<g ref="char:EOLhyphen"/>vate. <hi>Chriſt</hi> is freſh, his <hi>Blood</hi> freſh. Put your pe<g ref="char:EOLhyphen"/>titions into his hand, and this day beg your Lives, your Land, your King, with your <hi>Omnipotent Prayers.</hi> If you cannot <hi>Speake; Weep. Fletu agitur,</hi>
+               <note place="margin">Auguſt.</note> 
+               <hi>non affatu.</hi> Teares pray. If you cannot weep, <hi>Sigh.</hi> God heares <hi>Sighs.</hi> If you cannot <hi>Sigh, Breath.</hi> God feeles <hi>Breath. Lam.</hi> 3.56. At leaſt, let your Actions pray, your Preſence pray, your Submiſſion pray, your Afflictions pray. God heares Afflictions. <hi>Gen.</hi> 16.11. Hee heares our ſtretched out hands. Do not we ſo? Doe not wee give to many a one, that ſaith nothing; but onely holds out a hand to receive? O thinke as ill as you will of your ſelves: but thinke well of God. <hi>Pray</hi> as you <hi>Can Pray:</hi> and he is a <hi>Father,</hi> who will make <hi>Engliſh</hi> of broken prayers. <hi>Pray,</hi> I ſay. I ſay againe <hi>Pray.</hi> And who knowes, but <hi>Prayer</hi> will <hi>lengthen our day,</hi> as once it did <hi>Ioſhuahs?</hi> I can now ſay but little in publike. The Lord enlarge us, (<hi>You,</hi> and <hi>mee</hi>) in private, and my <hi>Learned Brother</hi> in publike. Had God vouchſafed me more leiſure, health, enlargements, I had dealt better with and for you, but at preſent, this is all that I can doe, I ſhall be ſhort in prayer, and will not abridge my ſucceſſor.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
